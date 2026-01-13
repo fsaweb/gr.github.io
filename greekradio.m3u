@@ -1,61 +1,1587 @@
 #EXTM3U
-#EXTINF:0 CUID="1" tvg-name="TRT FM" tvg-id="trtfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/trtfm.png" group-title="RADYO",TRT FM
-http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:0 CUID="2" tvg-name="TRT RADYO 1" tvg-id="trtradyo1" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/trtradyo1.png" group-title="RADYO",TRT RADYO 1
-http://46.20.7.125/listen.pls
-#EXTINF:0 CUID="3" tvg-name="KRAL FM" tvg-id="kralfm" tvg-logo="https://img-s2.onedio.com/id-5339659b9a6d89201900018a/rev-0/w-150/h-150/f-jpg/s-2009386c12518e390c916f1c431414343888373b.jpg" group-title="RADYO",KRAL FM
-https://dyg.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:0 CUID="4" tvg-name="KRAL POP" tvg-id="kralpop" tvg-logo="https://img-s1.onedio.com/id-533965d1891d4791190001a1/rev-0/w-150/h-150/f-jpg/s-f5b2496e55c3c1386127b5204780614f1771144a.jpg" group-title="RADYO",KRAL POP
-https://dyg.radyotvonline.net/kralpop/playlist.m3u8
-#EXTINF:0 CUID="5" tvg-name="POWER FM" tvg-id="powerfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/powerfm.png" group-title="RADYO",POWER FM
-https://powerfm.listenpowerapp.com/powerfm/playlist.m3u8
-#EXTINF:0 CUID="6" tvg-name="POWER TURK" tvg-id="powerturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/powerturk.png" group-title="RADYO",POWER TURK
-https://powerturk.listenpowerapp.com/powerturk/playlist.m3u8
-#EXTINF:0 CUID="7" tvg-name="METRO FM" tvg-id="metrofm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/metrofm.png" group-title="RADYO",METRO FM
-https://karnaval.radyotvonline.net/metrofm/playlist.m3u8
-#EXTINF:0 CUID="8" tvg-name="SUPER FM" tvg-id="superfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/superfm.png" group-title="RADYO",SUPER FM
-https://karnaval.radyotvonline.net/superfm/playlist.m3u8
-#EXTINF:0 CUID="9" tvg-name="JOY FM" tvg-id="joyfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/joyfm.png" group-title="RADYO",JOY FM
-https://karnaval.radyotvonline.net/joyfm/playlist.m3u8
-#EXTINF:0 CUID="10" tvg-name="JOY TURK" tvg-id="joyturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/joyturk.png" group-title="RADYO",JOY TURK
-https://karnaval.radyotvonline.net/joyturk/playlist.m3u8
-#EXTINF:0 CUID="11" tvg-name="FENOMEN" tvg-id="fenomen" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyofenomen.png" group-title="RADYO",FENOMEN
-https://fenomen.radyotvonline.net/fenomen/playlist.m3u8
-#EXTINF:0 CUID="12" tvg-name="ALEM FM" tvg-id="alemfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/alemfm.png" group-title="RADYO",ALEM FM
-https://turkmedya.radyotvonline.net/alemfm/playlist.m3u8
-#EXTINF:0 CUID="13" tvg-name="BEST FM" tvg-id="bestfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/bestfm.png" group-title="RADYO",BEST FM
-https://best.radyotvonline.net/bestfm/playlist.m3u8
-#EXTINF:0 CUID="14" tvg-name="KAFA RADYO" tvg-id="kafaradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/kafaradyo.png" group-title="RADYO",KAFA RADYO
-https://kafaradyo.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:0 CUID="15" tvg-name="RADYO VIVA" tvg-id="radyoviva" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyoviva.png" group-title="RADYO",RADYO VIVA
-https://turkmedya.radyotvonline.net/radyoviva/playlist.m3u8
-#EXTINF:0 CUID="16" tvg-name="RADYO D" tvg-id="radyod" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyod.png" group-title="RADYO",RADYO D
-https://radyo.dogantv.com.tr/radyod/playlist.m3u8
-#EXTINF:0 CUID="17" tvg-name="SHOW RADYO" tvg-id="showradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/showradyo.png" group-title="RADYO",SHOW RADYO
-https://showradyo.radyotvonline.net/showradyo/playlist.m3u8
-#EXTINF:0 CUID="18" tvg-name="NUMBER ONE FM" tvg-id="numberone" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/numberone.png" group-title="RADYO",NUMBER ONE FM
-https://n1fm.radyotvonline.net/numberone/playlist.m3u8
-#EXTINF:0 CUID="19" tvg-name="NUMBER ONE TURK" tvg-id="n1turk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/numberoneturk.png" group-title="RADYO",NUMBER ONE TURK
-https://n1fm.radyotvonline.net/n1turk/playlist.m3u8
-#EXTINF:0 CUID="20" tvg-name="NTV RADYO" tvg-id="ntvradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/ntvradyo.png" group-title="RADYO",NTV RADYO
-https://dyg.radyotvonline.net/ntvradyo/playlist.m3u8
-#EXTINF:0 CUID="21" tvg-name="CNN TURK RADYO" tvg-id="cnnturkradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/cnnturk.png" group-title="RADYO",CNN TURK RADYO
-https://radyo.dogantv.com.tr/cnnturk/playlist.m3u8
-#EXTINF:0 CUID="22" tvg-name="HABERTURK RADYO" tvg-id="haberturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/haberturk.png" group-title="RADYO",HABERTURK RADYO
-https://ciner.radyotvonline.net/haberturkradyo/playlist.m3u8
-#EXTINF:0 CUID="23" tvg-name="A HABER RADYO" tvg-id="ahaberradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/ahaber.png" group-title="RADYO",A HABER RADYO
-https://voda.atv.com.tr/ahaberradyo/ahaberradyo/playlist.m3u8
-#EXTINF:0 CUID="24" tvg-name="Diyanet Radyo" tvg-id="diyanet" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/diyanetradyo.png" group-title="RADYO",Diyanet Radyo
-https://canliyayin.diyanetradyo.com/diyanetradyo/playlist.m3u8
-#EXTINF:0 CUID="25" tvg-name="RADYO SPOR" tvg-id="radyospor" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyospor.png" group-title="RADYO",RADYO SPOR
-https://radyospor.radyotvonline.net/radyospor/playlist.m3u8
-#EXTINF:0 CUID="26" tvg-name="PAL NOSTALJI" tvg-id="palnostalji" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/palnostalji.png" group-title="RADYO",PAL NOSTALJI
-https://shoutcast.radyopal.com/stream/3/
-#EXTINF:0 CUID="27" tvg-name="RADYO VOYAGE" tvg-id="voyage" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyovoyage.png" group-title="RADYO",RADYO VOYAGE
-https://dyg.radyotvonline.net/voyage/playlist.m3u8
-#EXTINF:0 CUID="28" tvg-name="VIRGIN RADIO" tvg-id="virgin" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/virginradio.png" group-title="RADYO",VIRGIN RADIO
-https://karnaval.radyotvonline.net/virginradioturkiye/playlist.m3u8
-#EXTINF:0 CUID="29" tvg-name="BABA RADYO" tvg-id="babaradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/babaradyo.png" group-title="RADYO",BABA RADYO
-https://best.radyotvonline.net/babaradyo/playlist.m3u8
-#EXTINF:0 CUID="30" tvg-name="DREAM TURK" tvg-id="dreamturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/dreamturk.png" group-title="RADYO",DREAM TURK
-https://radyo.dogantv.com.tr/dreamturk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arion Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/arion
+#EXTINF:-1 tvg-id="" tvg-name="Athens Party" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2.webp" group-title="Internet Radios"
+https://eco.onestreaming.com/proxy/slam/stream
+#EXTINF:-1 tvg-id="" tvg-name="Velvet." tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/3.webp" group-title="Internet Radios"
+https://eco2.onestreaming.com/proxy/velvetfm/stream
+#EXTINF:-1 tvg-id="" tvg-name="Arion Στιγμές" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/5.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/arionstigmes
+#EXTINF:-1 tvg-id="" tvg-name="Akous. Dreams" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/6.webp" group-title="Internet Radios"
+https://streaming.radionomy.com/ABC-Lounge
+#EXTINF:-1 tvg-id="" tvg-name="Arion Λαϊκός" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/7.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/arionlaikos
+#EXTINF:-1 tvg-id="" tvg-name="Arion Kids" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/8.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/arionkids
+#EXTINF:-1 tvg-id="" tvg-name="Athens Party RNB" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/9.webp" group-title="Internet Radios"
+https://eco2.onestreaming.com/proxy/athenspartyrnb/stream
+#EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/10.webp" group-title="Internet Radios"
+https://eco2.onestreaming.com/proxy/wonder/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιοφωνία Κισσάβου 97,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/11.webp" group-title="Θεσσαλία"
+http://eco.onestreaming.com:8103
+#EXTINF:-1 tvg-id="" tvg-name="Fly Fm 95,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/12.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/FlyFm959
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Εψιλον 103" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/13.webp" group-title="Μακεδονία"
+https://cast.radiohost.ovh/radioeps?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Cool Fm 106,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/30.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7081/stream
+#EXTINF:-1 tvg-id="" tvg-name="Rockharadio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/31.webp" group-title="Internet Radios"
+https://radio.rockharadio.com/listen/rockharadio/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Lobby 101,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/36.webp" group-title="Μακεδονία"
+http://neos.win:9480/stream
+#EXTINF:-1 tvg-id="" tvg-name="Power FM 90,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/37.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8031
+#EXTINF:-1 tvg-id="" tvg-name="Πρώτο Κανάλι 95,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/40.webp" group-title="Ήπειρος"
+http://i2.streams.ovh:7117
+#EXTINF:-1 tvg-id="" tvg-name="Radio City 107,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/43.webp" group-title="Θράκη"
+https://anadolu.liderhost.com.tr/9998/stream:9998/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κυπαρισσία 93,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/44.webp" group-title="Πελοπόννησος"
+https://live.radio936.gr/
+#EXTINF:-1 tvg-id="" tvg-name="Χρώμα 98,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/45.webp" group-title="Στερεά Ελλάδα"
+https://xroma985.live24.gr/xroma985
+#EXTINF:-1 tvg-id="" tvg-name="Stylida Fm 94,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/46.webp" group-title="Στερεά Ελλάδα"
+https://aphrodite.freespirits.gr:8110/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Κρητικός 88,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/47.webp" group-title="Κρήτη"
+https://kritikos-spirosb.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Kiis Extra 93,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/50.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/kiis.mp3
+#EXTINF:-1 tvg-id="" tvg-name="1431 AM 1431" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/52.webp" group-title="Θεσσαλονίκη"
+https://www.1431am.org:8001/1431ogg?nocache=8371
+#EXTINF:-1 tvg-id="" tvg-name="Dream FM 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/53.webp" group-title="Κρήτη"
+http://neos.win:8420/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πόλις 99,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/54.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/9940/stream
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Φλώρινας 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/57.webp" group-title="Μακεδονία"
+https://radiostreaming.ert.gr/ert-florina
+#EXTINF:-1 tvg-id="" tvg-name="E-Pontos" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/58.webp" group-title="Internet Radios"
+https://solid67.streamupsolutions.com/proxy/lyblcgeq?mp=/live
+#EXTINF:-1 tvg-id="" tvg-name="Metro Radio 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/61.webp" group-title="Κρήτη"
+https://stream.crete.ovh:8443/metro
+#EXTINF:-1 tvg-id="" tvg-name="Radio Point" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/62.webp" group-title="Internet Radios"
+https://i4.streams.ovh:2200/ssl/srizakhs?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Νόστος 100,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/64.webp" group-title="Αθήνα"
+http://neos.win:7878/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Planet 90,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/70.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7043/;
+#EXTINF:-1 tvg-id="" tvg-name="Metal Zone" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/73.webp" group-title="Internet Radios"
+https://neos.win:48282/stream
+#EXTINF:-1 tvg-id="" tvg-name="Live fm 89,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/76.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8033
+#EXTINF:-1 tvg-id="" tvg-name="Ble Fm 93,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/79.webp" group-title="Θεσσαλονίκη"
+http://radio.lancom.gr:8004/stream1
+#EXTINF:-1 tvg-id="" tvg-name="Δίεση 101,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/82.webp" group-title="Αθήνα"
+https://stream.rcs.revma.com/gkfwrhqxbfhvv
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Δεύτερο Πρόγραμμα 103,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/84.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-deftero
+#EXTINF:-1 tvg-id="" tvg-name="Μύθος Fm 93,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/86.webp" group-title="Θεσσαλονίκη"
+https://stream.mythosradio.gr/listen/mythos/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Τρίτο Πρόγραμμα 90,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/87.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-trito
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Θεσσαλονίκη 94,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/89.webp" group-title="Θεσσαλονίκη"
+https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="Κοσμοράδιο 95,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/90.webp" group-title="Θεσσαλονίκη"
+http://eco.onestreaming.com:8689
+#EXTINF:-1 tvg-id="" tvg-name="Επικοινωνία 94" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/91.webp" group-title="Αθήνα"
+https://radio.streamings.gr/proxy/epikoinwnia94fm?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow 89" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/92.webp" group-title="Θεσσαλονίκη"
+http://n0a.radiojar.com/083wqknmsuhvv
+#EXTINF:-1 tvg-id="" tvg-name="Ερωτικός 94,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/93.webp" group-title="Θεσσαλονίκη"
+https://eu1.fastcast4u.com/proxy/nmarog01?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="Best 92,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/95.webp" group-title="Αθήνα"
+https://best.live24.gr/best1222
+#EXTINF:-1 tvg-id="" tvg-name="Rock Fm 96,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/96.webp" group-title="Αθήνα"
+https://az10.yesstreaming.net:8060/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Zoo 90,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/97.webp" group-title="Θεσσαλονίκη"
+https://metromedia.live24.gr/zoo908thess
+#EXTINF:-1 tvg-id="" tvg-name="Radio 1 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/98.webp" group-title="Αιγαίο"
+https://cast2.radiohost.ovh/8000?mp=/stream/
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy 92" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/99.webp" group-title="Αθήνα"
+https://galaxy.live24.gr/galaxy9292
+#EXTINF:-1 tvg-id="" tvg-name="Rock On" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/100.webp" group-title="Internet Radios"
+https://eco2.onestreaming.com/proxy/rockon/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gold" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/101.webp" group-title="Internet Radios"
+https://netradio.live24.gr/radiogold
+#EXTINF:-1 tvg-id="" tvg-name="ΣΚΑΪ Radio 100,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/103.webp" group-title="Αθήνα"
+https://skai.live24.gr/skai1003
+#EXTINF:-1 tvg-id="" tvg-name="Alpha 98,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/104.webp" group-title="Αθήνα"
+http://stream.radiojar.com/xcdg6yggzfeuv
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Πρώτο Πρόγραμμα 105,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/105.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-proto
+#EXTINF:-1 tvg-id="" tvg-name="Αθήνα 984 98,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/107.webp" group-title="Αθήνα"
+https://athina984.live24.gr/athina984
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Φωνή της Ελλάδας" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/108.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-voiceofgreece 
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΑ Σπορ 101,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/109.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-erasport 
+#EXTINF:-1 tvg-id="" tvg-name="Metropolis 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/110.webp" group-title="Θεσσαλονίκη"
+https://metromedia.live24.gr/metropolis955thess
+#EXTINF:-1 tvg-id="" tvg-name="Εκκλησία της Ελλάδος 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/111.webp" group-title="Αθήνα"
+https://loki.mental-media.gr:8038
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Open 106,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/112.webp" group-title="Αθήνα"
+http://radio.ertopen.com/erasport
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Κόσμος 93,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/113.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:-1 tvg-id="" tvg-name="Kiss FM 92,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/114.webp" group-title="Αθήνα"
+https://kissfm.live24.gr/kissfmathens
+#EXTINF:-1 tvg-id="" tvg-name="Όμορφη Πόλη 89,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/115.webp" group-title="Θράκη"
+https://radio.streamings.gr/proxy/radioxanthis?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="1055 Rock 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/116.webp" group-title="Θεσσαλονίκη"
+https://radio.1055rock.gr:31056/live
+#EXTINF:-1 tvg-id="" tvg-name="Astra 97,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/117.webp" group-title="Θεσσαλία"
+http://www.gointernet.gr:8030
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ3 Μακεδονία 102" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/118.webp" group-title="Θεσσαλονίκη"
+https://radiostreaming.ert.gr/ert-102fm
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ3 958fm 95,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/119.webp" group-title="Θεσσαλονίκη"
+https://radiostreaming.ert.gr/ert-958fm
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Ηρακλείου 97,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/122.webp" group-title="Κρήτη"
+https://radiostreaming.ert.gr/ert-heraklio
+#EXTINF:-1 tvg-id="" tvg-name="Radio 984" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/123.webp" group-title="Κρήτη"
+https://cast4.my-control-panel.com/proxy/anastas2/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κρήτη 101,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/124.webp" group-title="Κρήτη"
+https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/chunklist_w1219565146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Κέρκυρας" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/125.webp" group-title="Ιόνιο"
+https://radiostreaming.ert.gr/ert-kerkyra
+#EXTINF:-1 tvg-id="" tvg-name="Star Fm Κέρκυρα 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/126.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8800/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ionion FM 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/127.webp" group-title="Πελοπόννησος"
+https://stream3.proradio.gr/listen/ionion/ionionfm
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Βόλου 100,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/128.webp" group-title="Θεσσαλία"
+https://radiostreaming.ert.gr/ert-volos
+#EXTINF:-1 tvg-id="" tvg-name="Ανεμος 92" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/129.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8842/;
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/130.webp" group-title="Θεσσαλία"
+https://sp2.streams.ovh/8098/stream
+#EXTINF:-1 tvg-id="" tvg-name="Loud Radio 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/131.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8888/;
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Αιγαίου 104,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/132.webp" group-title="Αιγαίο"
+https://radiostreaming.ert.gr/ert-aigaiou
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Χανίων 104" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/133.webp" group-title="Κρήτη"
+https://radiostreaming.ert.gr/ert-chania
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Κομοτηνής 98,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/134.webp" group-title="Θράκη"
+https://radiostreaming.ert.gr/ert-komotini
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Πάτρας 89,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/135.webp" group-title="Πελοπόννησος"
+https://radiostreaming.ert.gr/ert-patra
+#EXTINF:-1 tvg-id="" tvg-name="Rock Radio 104,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/136.webp" group-title="Θεσσαλονίκη"
+https://s9.yesstreaming.net:2199/proxy/anyhowmo/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio 88miso 88,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/137.webp" group-title="Θεσσαλονίκη"
+https://solid33.streamupsolutions.com/proxy/sxxaojkx?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 100,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/138.webp" group-title="Στερεά Ελλάδα"
+https://sp2.streams.ovh/8100/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sky Radio 99,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/142.webp" group-title="Ήπειρος"
+https://media.skyradio.gr:9920/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 102,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/143.webp" group-title="Αθήνα"
+https://sfera.live24.gr/sfera4132
+#EXTINF:-1 tvg-id="" tvg-name="Voice 102,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/144.webp" group-title="Αθήνα"
+https://nitro.live24.gr/nitro4555
+#EXTINF:-1 tvg-id="" tvg-name="Sport Fm 94,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/145.webp" group-title="Αθήνα"
+https://sportfm.live24.gr/sportfm7712
+#EXTINF:-1 tvg-id="" tvg-name="Deejay 93,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/146.webp" group-title="Κύπρος"
+http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astra 92,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/147.webp" group-title="Κύπρος"
+https://securestreams2.autopo.st:1106/stream
+#EXTINF:-1 tvg-id="" tvg-name="Choice 104,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/149.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/choice/stream
+#EXTINF:-1 tvg-id="" tvg-name="London Greek Radio 103,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/150.webp" group-title="Internet Radios"
+https://eco.onestreaming.com/proxy/lgr/stream
+#EXTINF:-1 tvg-id="" tvg-name="Klik FM 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/151.webp" group-title="Κύπρος"
+https://eco.onestreaming.com/proxy/klikfmcy/stream
+#EXTINF:-1 tvg-id="" tvg-name="Kiss 89" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/152.webp" group-title="Κύπρος"
+https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1 tvg-id="" tvg-name="Κανάλι Εξι 106" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/153.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/kanali6ice/kanali
+#EXTINF:-1 tvg-id="" tvg-name="Δίεση 101,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/155.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="MixFm 102,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/156.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/dino1/stream
+#EXTINF:-1 tvg-id="" tvg-name="Love Fm 100,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/157.webp" group-title="Κύπρος"
+https://live3.istoikona.net:18948/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πρώτο 99,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/158.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/radioproto/stream
+#EXTINF:-1 tvg-id="" tvg-name="Rock FM 98,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/159.webp" group-title="Κύπρος"
+https://cdn.istoikona.com/RockFm/Live/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="Super FM 104,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/161.webp" group-title="Κύπρος"
+http://eco.onestreaming.com:8175
+#EXTINF:-1 tvg-id="" tvg-name="Ζενίθ 96,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/162.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/zenithice/stream
+#EXTINF:-1 tvg-id="" tvg-name="RIK Πρώτο 97,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/163.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="RIK Radio 2 91,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/164.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="RIK Τρίτο 94,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/165.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="RIK Radio 4 88,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/166.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="Paradise 90,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/169.webp" group-title="Θράκη"
+https://stream-mp3aac.live24.gr/paradise903
+#EXTINF:-1 tvg-id="" tvg-name="Power Fm 100,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/170.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8854/stream
+#EXTINF:-1 tvg-id="" tvg-name="Στο Κόκκινο 107,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/172.webp" group-title="Πελοπόννησος"
+https://n0b.radiojar.com/red-source
+#EXTINF:-1 tvg-id="" tvg-name="POP FM 102,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/173.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8422/stream
+#EXTINF:-1 tvg-id="" tvg-name="Δίαυλος Ροδόπης 92,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/174.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8588
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Fm 100,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/175.webp" group-title="Ιόνιο"
+https://listen-kissfm1006.sharp-stream.com/kissfm1006hqprem.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Στίγμα Radio 97,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/178.webp" group-title="Ιόνιο"
+https://sp3.streams.ovh/8062/stream
+#EXTINF:-1 tvg-id="" tvg-name="Υδρόγειος 106,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/181.webp" group-title="Κρήτη"
+https://netradio.live24.gr/ydrogeios1069her
+#EXTINF:-1 tvg-id="" tvg-name="Sferikos 99,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/182.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8012
+#EXTINF:-1 tvg-id="" tvg-name="Prime Radio 100,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/183.webp" group-title="Internet Radios"
+https://s20.myradiostream.com/:6738/;?type=http&nocache=1677241183?0.7142910190390519
+#EXTINF:-1 tvg-id="" tvg-name="Studio Λευκάτας 90,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/185.webp" group-title="Ιόνιο"
+http://eco.onestreaming.com:8091
+#EXTINF:-1 tvg-id="" tvg-name="Ακτίνα Radio 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/189.webp" group-title="Πελοπόννησος"
+https://stream.aktinaradio.gr/stream
+#EXTINF:-1 tvg-id="" tvg-name="Star FM 93,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/191.webp" group-title="Κύπρος"
+https://live3.istoikona.net:18538/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ηχώ Fm 99,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/192.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8520
+#EXTINF:-1 tvg-id="" tvg-name="Magic Fm 98,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/193.webp" group-title="Κρήτη"
+https://netradio.live24.gr/magic982
+#EXTINF:-1 tvg-id="" tvg-name="Καστοριά Fm 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/195.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8107
+#EXTINF:-1 tvg-id="" tvg-name="Λυχνάρι 91,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/196.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8037
+#EXTINF:-1 tvg-id="" tvg-name="Metro Fm 90,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/198.webp" group-title="Στερεά Ελλάδα"
+https://metro903.live24.gr/metro903
+#EXTINF:-1 tvg-id="" tvg-name="Velvet 98,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/200.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/velvet984xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Radio Net 101,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/201.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8490
+#EXTINF:-1 tvg-id="" tvg-name="Δρόμος 89,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/203.webp" group-title="Αθήνα"
+https://n23a-eu.rcs.revma.com/10q3enqxbfhvv?rj-ttl=5&rj-tok=AAABhaDCS2QAze2e24u5xWu_XA
+#EXTINF:-1 tvg-id="" tvg-name="Πειραϊκή Εκκλησία 91,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/204.webp" group-title="Αθήνα"
+https://impradio.bytemasters.gr/8002/stream
+#EXTINF:-1 tvg-id="" tvg-name="Astro Fm 96,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/205.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8099
+#EXTINF:-1 tvg-id="" tvg-name="Athletic 104,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/206.webp" group-title="Κρήτη"
+https://i5.streams.ovh:2200/ssl/web300?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Star Fm 93,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/207.webp" group-title="Μακεδονία"
+https://stream3.proradio.gr/listen/star933/star933
+#EXTINF:-1 tvg-id="" tvg-name="Libero 107,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/208.webp" group-title="Θεσσαλονίκη"
+https://radio.libero.fm:10750/live?1768073230631
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ενταση 93,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/209.webp" group-title="Κρήτη"
+https://entasistream.tuc.gr:8000/main.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Star FM 97,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/210.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8434
+#EXTINF:-1 tvg-id="" tvg-name="Sok Fm 104,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/213.webp" group-title="Στερεά Ελλάδα"
+https://n0e.radiojar.com/zeqcyyvu48hvv?rj-ttl=5&rj-tok=AAABhZwmEvoAgYkQ3qmbRxv-EQ
+#EXTINF:-1 tvg-id="" tvg-name="Easy 97,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/214.webp" group-title="Αθήνα"
+https://stream.rcs.revma.com/xx0x3502b9hvv
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 94,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/215.webp" group-title="Αθήνα"
+https://stream.rcs.revma.com/902yuw02b9hvv
+#EXTINF:-1 tvg-id="" tvg-name="Αρχάγγελος 94,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/217.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8536
+#EXTINF:-1 tvg-id="" tvg-name="Χριστιανισμός 103,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/219.webp" group-title="Αθήνα"
+http://eu1.fastcast4u.com:9326
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Έκφραση" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/220.webp" group-title="Internet Radios"
+https://neos.win:59340/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Δράμα 99,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/222.webp" group-title="Μακεδονία"
+http://pstnet6.shoutcastnet.com:60160/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ακρόαμα 94,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/223.webp" group-title="Μακεδονία"
+https://sh.onweb.gr/8066/;
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός Fm 98,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/228.webp" group-title="Πελοπόννησος"
+http://stream.sy3dud.com:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="Top Fm 102,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/232.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8376
+#EXTINF:-1 tvg-id="" tvg-name="Super 90,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/235.webp" group-title="Κρήτη"
+https://super904-spirosb.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Kiss 96,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/237.webp" group-title="Κρήτη"
+https://antares.dribbcast.com/proxy/kiss961?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός 98,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/240.webp" group-title="Ιόνιο"
+http://ice.streamcloud.mediacdn.com/palmos983
+#EXTINF:-1 tvg-id="" tvg-name="Radio Active 91,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/241.webp" group-title="Αιγαίο"
+https://streamyourdream.org:8050/radioactive
+#EXTINF:-1 tvg-id="" tvg-name="Aegean Voice 107,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/243.webp" group-title="Αιγαίο"
+https://sh.onweb.gr:7000/;
+#EXTINF:-1 tvg-id="" tvg-name="Πρίσμα FM 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/245.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8414
+#EXTINF:-1 tvg-id="" tvg-name="Synora Fm 92,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/249.webp" group-title="Μακεδονία"
+http://ice.streamcloud.mediacdn.com/synora922kilkis
+#EXTINF:-1 tvg-id="" tvg-name="Fly Radio 89,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/252.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8272
+#EXTINF:-1 tvg-id="" tvg-name="Star FM Δράμας 93,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/258.webp" group-title="Μακεδονία"
+https://casty.youmix.gr/listen/starfm935/radio
+#EXTINF:-1 tvg-id="" tvg-name="Zeppelin 106,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/260.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:-1 tvg-id="" tvg-name="Alpha Fm 104,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/261.webp" group-title="Κρήτη"
+https://stream.myip.gr/proxy/alpha1047?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Super Fm 104,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/262.webp" group-title="Ήπειρος"
+https://stream3.rcast.net/72942/
+#EXTINF:-1 tvg-id="" tvg-name="Aria FM 107,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/265.webp" group-title="Στερεά Ελλάδα"
+https://cast4.magicstreams.gr/sc/oisvampg/stream
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Ιωαννίνων 88,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/266.webp" group-title="Ήπειρος"
+https://radiostreaming.ert.gr/ert-ioannina
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Καβάλας 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/267.webp" group-title="Μακεδονία"
+https://radiostreaming.ert.gr/ert-kavala
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Καλαμάτας 107,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/268.webp" group-title="Πελοπόννησος"
+https://radiostreaming.ert.gr/ert-kalamata
+#EXTINF:-1 tvg-id="" tvg-name="Άρωμα 88,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/269.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/aroma.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 96,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/270.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/mg2vq26eewzuv
+#EXTINF:-1 tvg-id="" tvg-name="Φυστίκι 95,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/271.webp" group-title="Στερεά Ελλάδα"
+https://sh.onweb.gr/8444/;
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Ορεστιάδας 108" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/273.webp" group-title="Θράκη"
+https://radiostreaming.ert.gr/ert-orestiada
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Πύργου 102,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/274.webp" group-title="Πελοπόννησος"
+https://radiostreaming.ert.gr/ert-pyrgos
+#EXTINF:-1 tvg-id="" tvg-name="Team FM 102" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/275.webp" group-title="Κρήτη"
+https://hotsoft.net.gr:9105
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Κοζάνης 100,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/277.webp" group-title="Μακεδονία"
+https://radiostreaming.ert.gr/ert-kozani
+#EXTINF:-1 tvg-id="" tvg-name="Yellow Radio 101,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/279.webp" group-title="Θεσσαλονίκη"
+https://ice.greekstream.net/yellow
+#EXTINF:-1 tvg-id="" tvg-name="Παραπολιτικά FM 90,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/280.webp" group-title="Αθήνα"
+https://netradio.live24.gr/athinaradio
+#EXTINF:-1 tvg-id="" tvg-name="Ελληνικός 93,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/282.webp" group-title="Αθήνα"
+https://orange.live24.gr/orange9320
+#EXTINF:-1 tvg-id="" tvg-name="Top Fm 93" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/284.webp" group-title="Πελοπόννησος"
+https://netradio.live24.gr/topfm93patra
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 105,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/286.webp" group-title="Θεσσαλία"
+https://sp2.streams.ovh/8106/stream
+#EXTINF:-1 tvg-id="" tvg-name="Love Radio 97,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/287.webp" group-title="Αθήνα"
+https://loveradio.live24.gr/loveradio-1000
+#EXTINF:-1 tvg-id="" tvg-name="Cool Fm 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/289.webp" group-title="Πελοπόννησος"
+http://solid1.streamupsolutions.com:11004
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός Web Αργολίδα" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/290.webp" group-title="Internet Radios"
+https://24streams.gr:8888/stream
+#EXTINF:-1 tvg-id="" tvg-name="Λάμψη 92,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/293.webp" group-title="Αθήνα"
+https://az11.yesstreaming.net:8140/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Όλα 98,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/295.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8667
+#EXTINF:-1 tvg-id="" tvg-name="Dalkas 88,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/296.webp" group-title="Στερεά Ελλάδα"
+https://stream.rcs.revma.com/0u5qr4n6xxcwv
+#EXTINF:-1 tvg-id="" tvg-name="Πρώτο Πρόγραμμα Χίου 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/298.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8300
+#EXTINF:-1 tvg-id="" tvg-name="Ι. Μ. Πατρών 88,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/302.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8468
+#EXTINF:-1 tvg-id="" tvg-name="Fly 104" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/304.webp" group-title="Θεσσαλονίκη"
+https://imagine2.radioca.st
+#EXTINF:-1 tvg-id="" tvg-name="Κύμα Fm 90,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/309.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8028/;
+#EXTINF:-1 tvg-id="" tvg-name="Maximum FM 93,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/310.webp" group-title="Θράκη"
+https://sh.onweb.gr/8838/;
+#EXTINF:-1 tvg-id="" tvg-name="Pirate Radio GR 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/311.webp" group-title="Αιγαίο"
+http://live.piratefm.net:8080/top
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κόσμος 100" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/313.webp" group-title="Στερεά Ελλάδα"
+https://sh.onweb.gr/8856/stream
+#EXTINF:-1 tvg-id="" tvg-name="D-Code 96,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/314.webp" group-title="Κρήτη"
+https://s15.myradiostream.com/:13980/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Λάρισας 98,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/322.webp" group-title="Θεσσαλία"
+https://radiostreaming.ert.gr/ert-larisa
+#EXTINF:-1 tvg-id="" tvg-name="Άρωμα 98,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/323.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/aroma882.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μυτιλήνη 90" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/324.webp" group-title="Αιγαίο"
+http://cast5.magicstreams.gr:8041/stream
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Νοτίου Αιγαίου 93,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/325.webp" group-title="Αιγαίο"
+https://radiostreaming.ert.gr/ert-rodos
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Απόλλων 98,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/327.webp" group-title="Πελοπόννησος"
+http://s2.e-resellers.gr:8022/;listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Σερρών 96,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/328.webp" group-title="Μακεδονία"
+https://radiostreaming.ert.gr/ert-serres
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 98,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/341.webp" group-title="Κρήτη"
+https://i5.streams.ovh:2200/ssl/web100?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Just Radio 93" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/345.webp" group-title="Στερεά Ελλάδα"
+https://sp3.streams.ovh:7055/stream;
+#EXTINF:-1 tvg-id="" tvg-name="Λάμψη 88,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/347.webp" group-title="Θεσσαλία"
+https://s6.onweb.gr/8036/;
+#EXTINF:-1 tvg-id="" tvg-name="Traffic FM 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/348.webp" group-title="Κρήτη"
+https://sh.onweb.gr/8506/;
+#EXTINF:-1 tvg-id="" tvg-name="Mazi 4 all" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/349.webp" group-title="Internet Radios"
+http://sp.streams.ovh/8022/stream
+#EXTINF:-1 tvg-id="" tvg-name="Lamia DeeJay 91,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/352.webp" group-title="Στερεά Ελλάδα"
+https://sp1.32bit.gr/8014/stream
+#EXTINF:-1 tvg-id="" tvg-name="Active" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/353.webp" group-title="Κύπρος"
+http://r2.phileradio.com:8193/active
+#EXTINF:-1 tvg-id="" tvg-name="Max Fm 100,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/355.webp" group-title="Κρήτη"
+https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="Νέο Ραδιόφωνο 97,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/357.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8820/;
+#EXTINF:-1 tvg-id="" tvg-name="Phase Radio 87,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/359.webp" group-title="Στερεά Ελλάδα"
+https://s6.e-resellers.gr/8038/stream
+#EXTINF:-1 tvg-id="" tvg-name="Loud 98,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/362.webp" group-title="Στερεά Ελλάδα"
+https://s23.myradiostream.com/19306/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Αρμονία 103,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/365.webp" group-title="Αιγαίο"
+https://sh.onweb.gr/8500/;https://sh.onweb.gr/8500/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio Play 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/366.webp" group-title="Θράκη"
+https://s6.onweb.gr/8058/;
+#EXTINF:-1 tvg-id="" tvg-name="Kiss 91,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/368.webp" group-title="Ήπειρος"
+https://rdst.win:59110/stream
+#EXTINF:-1 tvg-id="" tvg-name="Love Radio  Κανάλι 5 91,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/370.webp" group-title="Μακεδονία"
+https://i5.streams.ovh:14036/live
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κόρινθος 105,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/372.webp" group-title="Πελοπόννησος"
+http://cast.radiohost.ovh:9004/stream?1501748611584.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ηχώ FM 102,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/374.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8280
+#EXTINF:-1 tvg-id="" tvg-name="Λατώ FM 103,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/376.webp" group-title="Κρήτη"
+https://stream.latofm.gr/latofm
+#EXTINF:-1 tvg-id="" tvg-name="Best Radio 97,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/377.webp" group-title="Πελοπόννησος"
+https://stream.best973.gr/stream/1/;?type=http&nocache=1
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dee Jay 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/386.webp" group-title="Πελοπόννησος"
+http://usa2-vn.mixstream.net:8018
+#EXTINF:-1 tvg-id="" tvg-name="Radio Arty" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/388.webp" group-title="Internet Radios"
+https://radio.streamings.gr/proxy/artyradio?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Plaisio Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/389.webp" group-title="Internet Radios"
+https://broadcast.plaisio.gr:8443/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis 105,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/395.webp" group-title="Αθήνα"
+https://radio.streamings.gr/proxy/atlantisfm?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ζυγός 100" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/396.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8870/;
+#EXTINF:-1 tvg-id="" tvg-name="Slam!" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/399.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8550
+#EXTINF:-1 tvg-id="" tvg-name="MotionFm Smooth" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/401.webp" group-title="Internet Radios"
+http://vm.motionfm.com//motiontwo_free
+#EXTINF:-1 tvg-id="" tvg-name="Ionian Galaxy 90,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/402.webp" group-title="Ιόνιο"
+https://srv.radiocaster.gr/9302/;
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 98,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/404.webp" group-title="Θεσσαλία"
+https://sp1.32bit.gr/8010/stream
+#EXTINF:-1 tvg-id="" tvg-name="INKEFALONIA 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/408.webp" group-title="Ιόνιο"
+http://eco.onestreaming.com:8045
+#EXTINF:-1 tvg-id="" tvg-name="Panic Fm 93,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/409.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8518
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ελασσόνα 88,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/412.webp" group-title="Θεσσαλία"
+https://solid33.streamupsolutions.com/proxy/bvxxkurj/stream 
+#EXTINF:-1 tvg-id="" tvg-name="RSO 91,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/413.webp" group-title="Θεσσαλονίκη"
+https://rso917greece.radioca.st/;
+#EXTINF:-1 tvg-id="" tvg-name="Heat Radio 88,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/414.webp" group-title="Θράκη"
+https://solid67.streamupsolutions.com/proxy/qrynsxmv?mp=/stream?ver=287426
+#EXTINF:-1 tvg-id="" tvg-name="Sto Kokkino 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/415.webp" group-title="Αθήνα"
+https://stream.radiojar.com/kokkino-ath
+#EXTINF:-1 tvg-id="" tvg-name="Capital Radio 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/417.webp" group-title="Κρήτη"
+https://hotsoft.net.gr:9100
+#EXTINF:-1 tvg-id="" tvg-name="Athens DeeJay 95,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/420.webp" group-title="Αθήνα"
+https://netradio.live24.gr/athensdeejay
+#EXTINF:-1 tvg-id="" tvg-name="Ιωάννινα Deejay 89,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/424.webp" group-title="Ήπειρος"
+https://sp3.streams.ovh/8089/stream
+#EXTINF:-1 tvg-id="" tvg-name="Life Radio 102,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/425.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8836/stream
+#EXTINF:-1 tvg-id="" tvg-name="Άνοιξη 100,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/427.webp" group-title="Πελοπόννησος"
+https://sp1.19cloudsnetwork.gr/8014/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μουσική Λάμψη 103,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/428.webp" group-title="Πελοπόννησος"
+http://stream.myip.gr:9214
+#EXTINF:-1 tvg-id="" tvg-name="Μέντα 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/431.webp" group-title="Αθήνα"
+https://netradio.live24.gr/menta88ath
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Φάρος 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/437.webp" group-title="Κρήτη"
+https://sh.onweb.gr/8012/;
+#EXTINF:-1 tvg-id="" tvg-name="Music Club 105,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/438.webp" group-title="Κρήτη"
+https://antares.dribbcast.com/proxy/music1058?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Σταθμός 99,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/447.webp" group-title="Μακεδονία"
+https://s7.myradiostream.com:10432
+#EXTINF:-1 tvg-id="" tvg-name="Diva Radio 91,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/448.webp" group-title="Μακεδονία"
+https://s17.myradiostream.com/6404/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ρετρό 105,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/449.webp" group-title="Κρήτη"
+http://sc2.streamwithq.com:8050
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 106" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/451.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/rythmos106xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Xanthi DeeJay 94,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/452.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/radiodeejay946xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Power Fm 93,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/453.webp" group-title="Θεσσαλία"
+https://sp1.32bit.gr/8002/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 94,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/454.webp" group-title="Ιόνιο"
+http://eco.onestreaming.com:8217
+#EXTINF:-1 tvg-id="" tvg-name="Έκρηξη Fm 99,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/458.webp" group-title="Θεσσαλονίκη"
+https://ice.greekstream.net/ekrixifm
+#EXTINF:-1 tvg-id="" tvg-name="Erotokritos Fm 87,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/459.webp" group-title="Κρήτη"
+http://stream2.proradio.gr:8004/erotokritos
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Χερσόνησος 97,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/460.webp" group-title="Κρήτη"
+https://www.fmlive.gr/8008/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ήλιδα 91,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/465.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8532
+#EXTINF:-1 tvg-id="" tvg-name="Μουσικός 98,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/468.webp" group-title="Αθήνα"
+http://netradio.live24.gr:80/mousikos986
+#EXTINF:-1 tvg-id="" tvg-name="Ήχος Fm 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/469.webp" group-title="Κρήτη"
+https://solid24.streamupsolutions.com/proxy/ixxgtaqw?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Παλαιόχωρα 89,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/470.webp" group-title="Κρήτη"
+https://s6.onweb.gr/8068/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="Russian Radio 105,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/475.webp" group-title="Κύπρος"
+https://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="Republic" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/478.webp" group-title="Internet Radios"
+https://metromedia.live24.gr/republicthess
+#EXTINF:-1 tvg-id="" tvg-name="Λέσχη 97,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/482.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8438/stream
+#EXTINF:-1 tvg-id="" tvg-name="Mad Radio 106,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/484.webp" group-title="Αθήνα"
+https://mediaserver.mad.tv/stream
+#EXTINF:-1 tvg-id="" tvg-name="Κνωσός Fm 100,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/488.webp" group-title="Κρήτη"
+http://streaming.ekriti.gr:1935/Knossosfm/Knossosfm/chunklist_w450178300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio 98" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/490.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/studio980/stream
+#EXTINF:-1 tvg-id="" tvg-name="Studio 3 103,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/491.webp" group-title="Θεσσαλονίκη"
+https://sh.onweb.gr/8408/;
+#EXTINF:-1 tvg-id="" tvg-name="Ant1 Αιγαίο 105" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/499.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8440
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 104" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/500.webp" group-title="Κύπρος"
+https://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1 tvg-id="" tvg-name="MotionFm Lounge" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/503.webp" group-title="Internet Radios"
+https://vm.motionfm.com//motionthree_free
+#EXTINF:-1 tvg-id="" tvg-name="Radio Evros 97,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/504.webp" group-title="Θράκη"
+https://live.radioevros.gr/
+#EXTINF:-1 tvg-id="" tvg-name="Αξενος" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/507.webp" group-title="Internet Radios"
+https://s14.myradiostream.com/29172/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Style 100" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/509.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8576
+#EXTINF:-1 tvg-id="" tvg-name="Metro Fm 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/510.webp" group-title="Θεσσαλία"
+https://netradio.live24.gr/agia
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιόφωνο Ιεράς Μητροπόλεως Λεμεσού 94.5 94,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/511.webp" group-title="Κύπρος"
+http://93.109.209.123:9080/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NRG FM 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/512.webp" group-title="Στερεά Ελλάδα"
+https://stream.rcs.revma.com/n3n1b7n6xxcwv
+#EXTINF:-1 tvg-id="" tvg-name="Sky Fm 100,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/520.webp" group-title="Θράκη"
+http://sc2.streamwithq.com:8060
+#EXTINF:-1 tvg-id="" tvg-name="Top Fm 106,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/523.webp" group-title="Θεσσαλία"
+https://s6.onweb.gr/8012/;
+#EXTINF:-1 tvg-id="" tvg-name="Ηχόραμα Radio 100,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/524.webp" group-title="Θεσσαλία"
+https://sp2.streams.ovh/8084/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ριζίτες 92,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/525.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7014/;
+#EXTINF:-1 tvg-id="" tvg-name="Μήνυμα" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/529.webp" group-title="Θεσσαλονίκη"
+https://radios.studio110.eu/radio/8010/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="City FM 100" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/530.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8173
+#EXTINF:-1 tvg-id="" tvg-name="99fm / Radio 1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/532.webp" group-title="Θεσσαλονίκη"
+http://n0a.radiojar.com/t0x7dyqmsuhvv
+#EXTINF:-1 tvg-id="" tvg-name="Polis 102,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/536.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8334
+#EXTINF:-1 tvg-id="" tvg-name="Alpha 96,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/539.webp" group-title="Θεσσαλονίκη"
+https://sh.onweb.gr/8822/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="Velvet 96,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/540.webp" group-title="Θεσσαλονίκη"
+https://metromedia.live24.gr/velvet968thess
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 96,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/543.webp" group-title="Κύπρος"
+https://securestreams3.autopo.st:1417/sfera
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτική Ραδιοφωνία Τρίπολης 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/544.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8884/live
+#EXTINF:-1 tvg-id="" tvg-name="Καλαμαριά FM 101,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/545.webp" group-title="Θεσσαλονίκη"
+https://ice.greekstream.net/gnomi
+#EXTINF:-1 tvg-id="" tvg-name="Nova Radio 93,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/546.webp" group-title="Θράκη"
+https://stream-mp3aac.live24.gr/nova931
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιοκύματα 102,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/547.webp" group-title="Κρήτη"
+https://sh.onweb.gr/8702/;
+#EXTINF:-1 tvg-id="" tvg-name="Island Fm 88,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/630.webp" group-title="Ιόνιο"
+https://sp3.streams.ovh/8014/stream
+#EXTINF:-1 tvg-id="" tvg-name="City 93" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/631.webp" group-title="Αιγαίο"
+https://centova2.hostplus.gr/proxy/city93?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="We Radio 89,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/632.webp" group-title="Θεσσαλονίκη"
+https://radio.1055rock.gr:32667/live
+#EXTINF:-1 tvg-id="" tvg-name="Πολιτεία 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/633.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8604
+#EXTINF:-1 tvg-id="" tvg-name="Τοξότης 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/635.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8240
+#EXTINF:-1 tvg-id="" tvg-name="Θράκη Fm 99,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/636.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8010
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos 96,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/640.webp" group-title="Ιόνιο"
+http://eco.onestreaming.com:8886/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Αίγιο 99,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/643.webp" group-title="Πελοπόννησος"
+http://eu7.fastcast4u.com:6130/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μοίρες" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/644.webp" group-title="Κρήτη"
+https://s6.onweb.gr/8034/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio Melody" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/646.webp" group-title="Internet Radios"
+https://i9.streams.ovh/sc/radiome2/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Λέχοβο 97,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/647.webp" group-title="Μακεδονία"
+https://sh.onweb.gr:7084/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Αμφισσα 104,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/651.webp" group-title="Στερεά Ελλάδα"
+https://stream1.468.gr/8104/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός 90,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/652.webp" group-title="Πελοπόννησος"
+http://i3.streams.ovh:12046/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ενημέρωση 92,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/653.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8075
+#EXTINF:-1 tvg-id="" tvg-name="Μουσικό Κανάλι 13 101,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/654.webp" group-title="Κρήτη"
+https://hotsoft.net.gr:9102
+#EXTINF:-1 tvg-id="" tvg-name="City Fm 103,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/655.webp" group-title="Πελοπόννησος"
+https://server.el1.info:37027/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός 102,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/657.webp" group-title="Αθήνα"
+https://s6.onweb.gr/8010/;
+#EXTINF:-1 tvg-id="" tvg-name="Focus 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/658.webp" group-title="Θράκη"
+http://s3.onweb.gr:8014
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιόφωνο 108" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/659.webp" group-title="Internet Radios"
+https://sh.onweb.gr:7003/;
+#EXTINF:-1 tvg-id="" tvg-name="Aquarius FM 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/660.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr:7011/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio 1 101" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/661.webp" group-title="Μακεδονία"
+https://sh.onweb.gr/8814/;
+#EXTINF:-1 tvg-id="" tvg-name="Paradise Radio 104,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/662.webp" group-title="Αθήνα"
+http://rdst.win:8850/stream
+#EXTINF:-1 tvg-id="" tvg-name="Κανάλι 20 88,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/665.webp" group-title="Πελοπόννησος"
+https://server.el1.info:37086/stream
+#EXTINF:-1 tvg-id="" tvg-name="Discomania" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/671.webp" group-title="Internet Radios"
+http://radio2.discomaniaradio.com:7000/live
+#EXTINF:-1 tvg-id="" tvg-name="Λυδία FM 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/679.webp" group-title="Θεσσαλονίκη"
+http://eu1.radiolydia.com:1086/stream
+#EXTINF:-1 tvg-id="" tvg-name="Real Fm 97,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/680.webp" group-title="Αθήνα"
+https://realfm2.live24.gr/realfm
+#EXTINF:-1 tvg-id="" tvg-name="Creta Planet" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/685.webp" group-title="Internet Radios"
+http://s3.onweb.gr:8522
+#EXTINF:-1 tvg-id="" tvg-name="NRG Radio 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/686.webp" group-title="Μακεδονία"
+https://i4.streams.ovh:2200/ssl/nrgradio?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μουσικό Κανάλι 105,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/687.webp" group-title="Κρήτη"
+http://stream1.mousikokanali.gr:8100/mc
+#EXTINF:-1 tvg-id="" tvg-name="Sky Fm 99,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/688.webp" group-title="Μακεδονία"
+https://skyptolemaida.radioca.st/stream?type=http&nocache=14
+#EXTINF:-1 tvg-id="" tvg-name="Αγιος Σπυρίδων 91,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/689.webp" group-title="Ιόνιο"
+https://sh.onweb.gr:7052/;
+#EXTINF:-1 tvg-id="" tvg-name="Up 92,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/691.webp" group-title="Κρήτη"
+https://netradio.live24.gr/lampsi929herakleio
+#EXTINF:-1 tvg-id="" tvg-name="99,6 Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/692.webp" group-title="Κρήτη"
+http://s4.onweb.gr:8434
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία 103,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/693.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8183/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sport Fm 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/699.webp" group-title="Θεσσαλία"
+https://www.gointernet.gr:9014/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MotionFm Deep" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/702.webp" group-title="Internet Radios"
+http://vm.motionfm.com//motionone_free
+#EXTINF:-1 tvg-id="" tvg-name="Apps Radio 96,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/703.webp" group-title="Θράκη"
+https://stream.myip.gr/proxy/app966?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Σοκολάτα 102,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/705.webp" group-title="Μακεδονία"
+https://radio.streamings.gr/proxy/sokolatafm?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ερμιονίδα FM 104,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/708.webp" group-title="Πελοπόννησος"
+https://ermionida.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Νότιας Ελλάδας 97,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/710.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8510
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Καρπενήσι 97,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/714.webp" group-title="Στερεά Ελλάδα"
+https://sc2.streamwithq.com:2000/stream/RadioKarpenisi?1677242722420
+#EXTINF:-1 tvg-id="" tvg-name="Radio Patra 106,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/716.webp" group-title="Πελοπόννησος"
+https://live.cast-control.eu:2000/stream/radiopatra
+#EXTINF:-1 tvg-id="" tvg-name="Avanti Fm 107,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/718.webp" group-title="Θεσσαλία"
+https://avantifm.live24.gr/avantifm
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ηπειρος 94,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/726.webp" group-title="Ήπειρος"
+https://neos.win:59454/stream
+#EXTINF:-1 tvg-id="" tvg-name="XRadio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/727.webp" group-title="Internet Radios"
+https://cast.radiohost.ovh/xradio?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Γάμμα 94" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/731.webp" group-title="Πελοπόννησος"
+https://radiogamma.live24.gr/radiogamma
+#EXTINF:-1 tvg-id="" tvg-name="Κρήτη Fm 87,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/732.webp" group-title="Αθήνα"
+https://sh.onweb.gr:7047/;
+#EXTINF:-1 tvg-id="" tvg-name="Στόχος FM 99" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/733.webp" group-title="Μακεδονία"
+http://s3.onweb.gr:8016
+#EXTINF:-1 tvg-id="" tvg-name="Bravo 89,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/737.webp" group-title="Ιόνιο"
+https://sp3.streams.ovh/8046/stream
+#EXTINF:-1 tvg-id="" tvg-name="Αργοσαρωνικός 106,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/738.webp" group-title="Αθήνα"
+https://sh.onweb.gr/8536/;
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιόφωνο Μεσολογγίου 92" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/739.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8021
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μεσσατίδα 98" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/740.webp" group-title="Πελοπόννησος"
+https://cast4.magicstreams.gr:2200/ssl/rnamozwi?mp=/stream&1668884587044
+#EXTINF:-1 tvg-id="" tvg-name="IEK Delta Radio - Alternative" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/743.webp" group-title="Internet Radios"
+https://n07.radiojar.com/kdg17x7rpy5tv?rj-ttl=5&rj-tok=AAABhZuny4kArlUSh85heYVCLw
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 87,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/744.webp" group-title="Θεσσαλονίκη"
+https://derti.live24.gr/laikos876
+#EXTINF:-1 tvg-id="" tvg-name="Shook 104,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/746.webp" group-title="Θεσσαλονίκη"
+https://sh.onweb.gr/8812/stream
+#EXTINF:-1 tvg-id="" tvg-name="Σαντορίνη Fm 106,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/747.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8316
+#EXTINF:-1 tvg-id="" tvg-name="Banana" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/750.webp" group-title="Internet Radios"
+https://n0d.radiojar.com/pr9r38w802hvv?rj-ttl=5&rj-tok=AAABhZrVIp4AEjl0dGbutteBgA
+#EXTINF:-1 tvg-id="" tvg-name="Ant1 Radio 102,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/751.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="Studio E 103" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/752.webp" group-title="Ήπειρος"
+http://music.1host.gr:9045/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Φάρος 105,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/754.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8406
+#EXTINF:-1 tvg-id="" tvg-name="Πρακτορείο 104,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/759.webp" group-title="Θεσσαλονίκη"
+https://sh.onweb.gr:7048/;
+#EXTINF:-1 tvg-id="" tvg-name="Μπλε 99" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/761.webp" group-title="Στερεά Ελλάδα"
+https://stream.rcs.revma.com/xrxzw9n6xxcwv
+#EXTINF:-1 tvg-id="" tvg-name="Imagine 89,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/762.webp" group-title="Θεσσαλονίκη"
+https://imagine897.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ιωνία Plus 89,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/770.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8596
+#EXTINF:-1 tvg-id="" tvg-name="Ελληνικός 107,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/774.webp" group-title="Κρήτη"
+https://everest.streams.ovh/ellinikos1072
+#EXTINF:-1 tvg-id="" tvg-name="Ορθοδοξία και Παράδοση 103" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/775.webp" group-title="Μακεδονία"
+http://radio.lts-group.eu:52390/ANS
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Επτάνησα 98,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/776.webp" group-title="Ιόνιο"
+http://eco.onestreaming.com:8017
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Φάρος 92,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/777.webp" group-title="Ήπειρος"
+https://stream.kncdn.net:8522
+#EXTINF:-1 tvg-id="" tvg-name="Venus 105,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/779.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr:7124/stream
+#EXTINF:-1 tvg-id="" tvg-name="Plus Radio 102,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/780.webp" group-title="Θεσσαλονίκη"
+http://eco.onestreaming.com:8039
+#EXTINF:-1 tvg-id="" tvg-name="Energy Radio 88,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/785.webp" group-title="Μακεδονία"
+https://casty.youmix.gr/listen/energyradio889/energy
+#EXTINF:-1 tvg-id="" tvg-name="Γαύδος Fm 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/786.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/GavdosFm
+#EXTINF:-1 tvg-id="" tvg-name="Πένα FM 92,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/788.webp" group-title="Κρήτη"
+http://stream-mp3aac.live24.gr:80/max925-her
+#EXTINF:-1 tvg-id="" tvg-name="Θέμα Κρήτης 103,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/789.webp" group-title="Κρήτη"
+http://dione.shoutca.st:8548
+#EXTINF:-1 tvg-id="" tvg-name="Καρδιά 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/791.webp" group-title="Κρήτη"
+https://stream.crete.ovh:8443/kardia
+#EXTINF:-1 tvg-id="" tvg-name="Epigee Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/792.webp" group-title="Internet Radios"
+https://sh.onweb.gr/8540/;
+#EXTINF:-1 tvg-id="" tvg-name="Mykonos Live Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/797.webp" group-title="Internet Radios"
+https://solid55.streamupsolutions.com/proxy/lsdmuqhb?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Καλλονή 87,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/798.webp" group-title="Αιγαίο"
+https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 104,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/800.webp" group-title="Μακεδονία"
+https://i7.streams.ovh/ic/rythmos1044/stream
+#EXTINF:-1 tvg-id="" tvg-name="Top Fm 106,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/805.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/TopFm1065
+#EXTINF:-1 tvg-id="" tvg-name="Volos Radio DeeJay 104,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/806.webp" group-title="Θεσσαλία"
+http://cast3.radiohost.ovh:8008/stream
+#EXTINF:-1 tvg-id="" tvg-name="Best 94,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/808.webp" group-title="Κρήτη"
+https://i2.streams.ovh:9470/;
+#EXTINF:-1 tvg-id="" tvg-name="OFF Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/809.webp" group-title="Internet Radios"
+https://s3.yesstreaming.net:17062/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδικός 105,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/810.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8054
+#EXTINF:-1 tvg-id="" tvg-name="Easy FM 93,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/813.webp" group-title="Κρήτη"
+https://solid48.streamupsolutions.com/proxy/lhlamody/stream
+#EXTINF:-1 tvg-id="" tvg-name="My Radio 89,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/817.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8850/stream
+#EXTINF:-1 tvg-id="" tvg-name="Πανόραμα 98,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/819.webp" group-title="Θεσσαλονίκη"
+https://netradio.live24.gr/panorama984
+#EXTINF:-1 tvg-id="" tvg-name="Music 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/820.webp" group-title="Αθήνα"
+https://netradio.live24.gr/music892
+#EXTINF:-1 tvg-id="" tvg-name="Easy 105,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/824.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr:7073/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Σιάτιστα FM 95,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/826.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8606
+#EXTINF:-1 tvg-id="" tvg-name="Ερμής 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/827.webp" group-title="Ιόνιο"
+https://streams.upg.gr/ermis
+#EXTINF:-1 tvg-id="" tvg-name="Ανεμος 95,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/831.webp" group-title="Αιγαίο"
+https://solid48.streamupsolutions.com/proxy/vqdawvmf/stream;
+#EXTINF:-1 tvg-id="" tvg-name="Ρόδον Fm 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/838.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8324
+#EXTINF:-1 tvg-id="" tvg-name="Sport24 Radio 103,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/841.webp" group-title="Αθήνα"
+http://stream.radiojar.com/r2aezx4wxxquv
+#EXTINF:-1 tvg-id="" tvg-name="Σοχός Fm 88,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/842.webp" group-title="Θεσσαλονίκη"
+https://eu7.fastcast4u.com/proxy/sohosfm?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πιερία 104,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/843.webp" group-title="Μακεδονία"
+https://rpieria.radioca.st/;
+#EXTINF:-1 tvg-id="" tvg-name="Lemon 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/845.webp" group-title="Μακεδονία"
+https://cast.streams.ovh/sc/radio888/stream
+#EXTINF:-1 tvg-id="" tvg-name="Blood Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/846.webp" group-title="Internet Radios"
+http://solid48.streamupsolutions.com:8121/stream
+#EXTINF:-1 tvg-id="" tvg-name="Empneusi 107" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/859.webp" group-title="Αιγαίο"
+http://stream.radiojar.com/2rsrhmepefq.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Επιλογές 101" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/865.webp" group-title="Μακεδονία"
+http://ice.streamcloud.mediacdn.com/epiloges1028
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτικό Ραδιόφωνο Πολύγυρου 90,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/867.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8526
+#EXTINF:-1 tvg-id="" tvg-name="Λάκκα Σούλι Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/869.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8286
+#EXTINF:-1 tvg-id="" tvg-name="Νησί 93,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/872.webp" group-title="Ιόνιο"
+https://sp3.streams.ovh/8054/stream
+#EXTINF:-1 tvg-id="" tvg-name="Status 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/873.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8131
+#EXTINF:-1 tvg-id="" tvg-name="Υπάρχω 101,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/874.webp" group-title="Θράκη"
+https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Angel 102,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/875.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8502/;
+#EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/876.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/9100/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Deejay 93,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/877.webp" group-title="Ήπειρος"
+http://i3.streams.ovh:12218
+#EXTINF:-1 tvg-id="" tvg-name="Music Art Club" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/885.webp" group-title="Internet Radios"
+https://eu9.fastcast4u.com/proxy/musicart?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="OlA 97" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/886.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/ola97/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Χρόνος 87,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/888.webp" group-title="Θράκη"
+https://cast.radiohost.ovh/radioxronos?mp=/default
+#EXTINF:-1 tvg-id="" tvg-name="Tuning Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/889.webp" group-title="Internet Radios"
+https://listen.radionomy.com/tuningradiogr
+#EXTINF:-1 tvg-id="" tvg-name="Σφαίρα 101,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/891.webp" group-title="Θεσσαλία"
+http://cast3.radiohost.ovh:8280
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μαρτυρία 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/893.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/martiria
+#EXTINF:-1 tvg-id="" tvg-name="Ικαριακή Ραδιοφωνία 92,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/896.webp" group-title="Αιγαίο"
+https://sc2.streamwithq.com:2000/stream/Ikariaki/stream
+#EXTINF:-1 tvg-id="" tvg-name="Astra 93,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/897.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8898/stream
+#EXTINF:-1 tvg-id="" tvg-name="Magia FM" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/899.webp" group-title="Στερεά Ελλάδα"
+https://s2.e-resellers.gr/proxy/magiafm1047/stream
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos FM 103,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/900.webp" group-title="Μακεδονία"
+http://n0a.radiojar.com/duh3nm1v6hhvv?rj-ttl=5&rj-tok=AAABhZrhfMIAWBECIktcC9Li4g
+#EXTINF:-1 tvg-id="" tvg-name="Κρήτη Fm 100,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/901.webp" group-title="Κρήτη"
+https://i9.streams.ovh:2200/sc/kritifm1003/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 94,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/904.webp" group-title="Πελοπόννησος"
+https://netradio.live24.gr/sfera941nauplio
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy 106,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/905.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr/8818/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Star 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/908.webp" group-title="Μακεδονία"
+https://radio.1055rock.gr:32671/live
+#EXTINF:-1 tvg-id="" tvg-name="Μεσόγειος στο Κόκκινο  105,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/911.webp" group-title="Αιγαίο"
+http://stream.radiojar.com/g6eg7gpa6k5tv
+#EXTINF:-1 tvg-id="" tvg-name="RadioIn Laiko" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/913.webp" group-title="Internet Radios"
+http://www.radioin.link:8383/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sfera 98,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/916.webp" group-title="Αιγαίο"
+https://stream-mp3aac.live24.gr/sfera989
+#EXTINF:-1 tvg-id="" tvg-name="Serra" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/922.webp" group-title="Internet Radios"
+http://cast2.radiohost.ovh:9086/stream
+#EXTINF:-1 tvg-id="" tvg-name="Mood Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/924.webp" group-title="Internet Radios"
+https://us1new.listen2myradio.com:2199/listen.php?port=10034&type=s2&mount=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Zen Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/931.webp" group-title="Internet Radios"
+http://i9.streams.ovh:19120
+#EXTINF:-1 tvg-id="" tvg-name="Ianos Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/937.webp" group-title="Internet Radios"
+https://radio.streamings.gr/proxy/feelmusic2021?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Dream Radio 88,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/940.webp" group-title="Κρήτη"
+https://solid41.streamupsolutions.com/proxy/jhhzdwjo?mp=/stream 
+#EXTINF:-1 tvg-id="" tvg-name="Άλφα 98,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/952.webp" group-title="Ήπειρος"
+https://i8.streams.ovh/sc/radioalf/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μακιστία 98,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/955.webp" group-title="Πελοπόννησος"
+http://stream.ellada943.gr:10278/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Super 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/958.webp" group-title="Θράκη"
+https://eco.onestreaming.com/proxy/super88ice/stream
+#EXTINF:-1 tvg-id="" tvg-name="Hot Fm" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/963.webp" group-title="Internet Radios"
+https://hotfm.live24.gr/hotfm
+#EXTINF:-1 tvg-id="" tvg-name="Στο Νησί 99" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/964.webp" group-title="Αιγαίο"
+https://eco.onestreaming.com/proxy/stonisi99/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός Μυτιλήνης 91,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/965.webp" group-title="Αιγαίο"
+http://cast5.magicstreams.gr:8028/stream
+#EXTINF:-1 tvg-id="" tvg-name="Κανάλι 1  90,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/966.webp" group-title="Αθήνα"
+https://netradio.live24.gr/kanali1peiraia
+#EXTINF:-1 tvg-id="" tvg-name="ART fm 90,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/967.webp" group-title="Αθήνα"
+https://radio.webmonster.gr:8030/artfm906hi
+#EXTINF:-1 tvg-id="" tvg-name="Αιγαίο Live 95,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/972.webp" group-title="Αιγαίο"
+http://stream.radiojar.com/nkqh9th47vzuv
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πρώτο 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/979.webp" group-title="Αιγαίο"
+http://server.insms.gr:45114
+#EXTINF:-1 tvg-id="" tvg-name="Καλοκαιράκι" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1000.webp" group-title="Internet Radios"
+https://eco2.onestreaming.com/proxy/kalokairaki/stream
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio 93,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1001.webp" group-title="Ήπειρος"
+https://sh.onweb.gr/8006/;
+#EXTINF:-1 tvg-id="" tvg-name="Power FM 92,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1002.webp" group-title="Ήπειρος"
+https://neos.win:59230/stream
+#EXTINF:-1 tvg-id="" tvg-name="Εν Πλω 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1004.webp" group-title="Ήπειρος"
+https://icecast.empneusi.net/enplofm
+#EXTINF:-1 tvg-id="" tvg-name="Πήγασος FM 106" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1008.webp" group-title="Ήπειρος"
+https://rdst.win:59412
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτικό Ραδιόφωνο Ιωαννίνων 98,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1011.webp" group-title="Ήπειρος"
+http://stream.radiojar.com/1qpu1agw4mzuv.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Πίνδος FM 107,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1013.webp" group-title="Ήπειρος"
+https://netradio.live24.gr/radiopindos1077
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτική Ραδιοφωνία Πρέβεζας 87,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1014.webp" group-title="Ήπειρος"
+http://sc2.streamwithq.com:8028/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sin Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1015.webp" group-title="Internet Radios"
+https://solid67.streamupsolutions.com/proxy/lqomhdjk?mp=/;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos FM 99,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1020.webp" group-title="Θεσσαλία"
+https://solid2.streamupsolutions.com/proxy/yavljnhi?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ζημιά 93,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1024.webp" group-title="Θεσσαλία"
+http://www.gointernet.gr:8012
+#EXTINF:-1 tvg-id="" tvg-name="Παραδοσιακός 106,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1028.webp" group-title="Θεσσαλία"
+http://sp2.streams.ovh:8104
+#EXTINF:-1 tvg-id="" tvg-name="Μοναχική Διακονία 87,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1031.webp" group-title="Θεσσαλία"
+http://eco.onestreaming.com:8019
+#EXTINF:-1 tvg-id="" tvg-name="Χρώμα FM 88,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1032.webp" group-title="Θεσσαλία"
+https://metrovolos882.live24.gr/metrovolos882
+#EXTINF:-1 tvg-id="" tvg-name="Star FM 95,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1033.webp" group-title="Θεσσαλία"
+https://solid2.streamupsolutions.com/proxy/starfm953?mp=/;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="Βόλος 98,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1036.webp" group-title="Θεσσαλία"
+https://www.gointernet.gr:7012/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="BlueHeart 105,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1038.webp" group-title="Θεσσαλία"
+https://streamyourdream.org:8018/melwdos
+#EXTINF:-1 tvg-id="" tvg-name="Σφαίρα 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1039.webp" group-title="Θεσσαλία"
+http://cast3.radiohost.ovh:8243
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Τρίκαλα 103,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1044.webp" group-title="Θεσσαλία"
+https://s6.onweb.gr/8004/stream?1669313702318
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μετέωρα 90,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1045.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr:7027/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dee Jay 94,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1046.webp" group-title="Θράκη"
+https://stream.myip.gr/proxy/deejay?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Joy Fm 106,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1048.webp" group-title="Θράκη"
+https://anadolu.liderhost.com.tr/7888/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ελπίδα 96,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1051.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8564
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτικό Ραδιόφωνο Ορεστιάδας 101,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1054.webp" group-title="Θράκη"
+https://rdst.win:48312
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ξάνθη 93,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1057.webp" group-title="Θράκη"
+https://stream.myip.gr/proxy/radioxanthi/live
+#EXTINF:-1 tvg-id="" tvg-name="Διακονία 93,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1058.webp" group-title="Θράκη"
+https://radio.streamings.gr/proxy/imxanthis?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Goal 105,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1063.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/goalfm1051xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Kral FM 107,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1064.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/kralfm100xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πρωϊνή 93,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1066.webp" group-title="Μακεδονία"
+http://62.103.31.151:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 103,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1067.webp" group-title="Θράκη"
+https://stream.radiojar.com/v1hkvv4gk72vv
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ξυλαγανή 104,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1068.webp" group-title="Θράκη"
+http://solid2.streamupsolutions.com:24950/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ροδόπη 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1069.webp" group-title="Θράκη"
+https://solid2.streamupsolutions.com/proxy/yawmzklx?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κέρκυρα 100,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1073.webp" group-title="Ιόνιο"
+http://live.cast-control.eu:9118/stream;?1552397300972
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Λευκίμμη 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1075.webp" group-title="Ιόνιο"
+https://i3.streams.ovh:12006/live
+#EXTINF:-1 tvg-id="" tvg-name="DeeJay 97,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1077.webp" group-title="Ιόνιο"
+https://sh.onweb.gr:7083/;
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 101,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1081.webp" group-title="Ιόνιο"
+http://i3.streams.ovh:12214
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ανάμνηση 91" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1082.webp" group-title="Κρήτη"
+https://netradio.live24.gr/radioanamnisi910
+#EXTINF:-1 tvg-id="" tvg-name="Politica 89,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1083.webp" group-title="Κρήτη"
+https://i5.streams.ovh:2200/ssl/web301?mp=/stream&1750372547864
+#EXTINF:-1 tvg-id="" tvg-name="ΣΚΑΪ Κρήτης 92,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1089.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/SkaiKritis
+#EXTINF:-1 tvg-id="" tvg-name="DRS fm 95,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1090.webp" group-title="Κρήτη"
+https://drs953.live24.gr/drs953
+#EXTINF:-1 tvg-id="" tvg-name="Κρητόραμα FM 97,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1091.webp" group-title="Κρήτη"
+http://sc2.streamwithq.com:8052
+#EXTINF:-1 tvg-id="" tvg-name="Love Radio Κρήτης 102,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1093.webp" group-title="Κρήτη"
+https://loveradio-her.live24.gr/loveradio-her2
+#EXTINF:-1 tvg-id="" tvg-name="Melody 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1094.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7071/;
+#EXTINF:-1 tvg-id="" tvg-name="Madness Radio 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1095.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7117/;
+#EXTINF:-1 tvg-id="" tvg-name="Σητεία FM 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1096.webp" group-title="Κρήτη"
+http://sitiafm.no-ip.info:8000
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Λασίθι 92,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1097.webp" group-title="Κρήτη"
+https://sh.onweb.gr:7116/;
+#EXTINF:-1 tvg-id="" tvg-name="Candia Radio 93,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1099.webp" group-title="Κρήτη"
+http://193.227.111.111:8004
+#EXTINF:-1 tvg-id="" tvg-name="Δρόμος 105,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1102.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/DromosFm1054
+#EXTINF:-1 tvg-id="" tvg-name="Rockarolla Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1104.webp" group-title="Internet Radios"
+https://solid2.streamupsolutions.com/proxy/msoepowo?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Κρητικόραμα FM 93,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1105.webp" group-title="Κρήτη"
+https://i8.streams.ovh:9382/prech
+#EXTINF:-1 tvg-id="" tvg-name="Star FM 97,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1107.webp" group-title="Κρήτη"
+https://solid55.streamupsolutions.com/proxy/vkpzhens/stream
+#EXTINF:-1 tvg-id="" tvg-name="Original 94,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1108.webp" group-title="Κρήτη"
+https://eu10.fastcast4u.com:8990/;
+#EXTINF:-1 tvg-id="" tvg-name="Δίαυλος Δράμας 93" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1112.webp" group-title="Μακεδονία"
+http://server.insms.gr:45124
+#EXTINF:-1 tvg-id="" tvg-name="Energy FM 88,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1113.webp" group-title="Μακεδονία"
+https://sh.onweb.gr:7036/;
+#EXTINF:-1 tvg-id="" tvg-name="NRG 92,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1120.webp" group-title="Θεσσαλία"
+https://s6.onweb.gr:7031/;
+#EXTINF:-1 tvg-id="" tvg-name="KavalaNews 102,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1124.webp" group-title="Μακεδονία"
+https://sp3.streams.ovh/8052/stream
+#EXTINF:-1 tvg-id="" tvg-name="Λάμψη 105,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1125.webp" group-title="Μακεδονία"
+https://stream3.proradio.gr/listen/lampsi/lampsifm 
+#EXTINF:-1 tvg-id="" tvg-name="Έρωτας 92" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1127.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8368
+#EXTINF:-1 tvg-id="" tvg-name="Αντέννες FM 93,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1130.webp" group-title="Μακεδονία"
+http://cast.streams.ovh:9177/live
+#EXTINF:-1 tvg-id="" tvg-name="Viva FM 95,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1136.webp" group-title="Μακεδονία"
+https://s17.myradiostream.com:8742/listen.mp3?nocache=1677248733
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία 102,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1139.webp" group-title="Μακεδονία"
+https://stream.radiomelodia.gr/proxy/melodia1024?mp=/stream 
+#EXTINF:-1 tvg-id="" tvg-name="Blue Space 107,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1141.webp" group-title="Αθήνα"
+https://sp1.19cloudsnetwork.gr/8008/stream
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Τρίπολης 101,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1148.webp" group-title="Πελοπόννησος"
+https://radiostreaming.ert.gr/ert-tripoli
+#EXTINF:-1 tvg-id="" tvg-name="Diva 106,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1152.webp" group-title="Πελοπόννησος"
+https://srv.radiocaster.gr:10995/;
+#EXTINF:-1 tvg-id="" tvg-name="Master Fm 90,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1153.webp" group-title="Πελοπόννησος"
+https://stream1.468.gr/9902/stream
+#EXTINF:-1 tvg-id="" tvg-name="Σκύλος 90" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1155.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/819r8wupdrruv
+#EXTINF:-1 tvg-id="" tvg-name="Noise Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1158.webp" group-title="Κύπρος"
+https://aaradioforyou.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Σκάι Πάτρας 89,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1159.webp" group-title="Πελοπόννησος"
+http://i.streams.ovh:9519
+#EXTINF:-1 tvg-id="" tvg-name="Max FM 93,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1160.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/qt9gf4hhdwzuv
+#EXTINF:-1 tvg-id="" tvg-name="Σπορ FM Πάτρας 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1164.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/yb7bcbkfewzuv
+#EXTINF:-1 tvg-id="" tvg-name="Wave 97,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1165.webp" group-title="Πελοπόννησος"
+https://sp1.32bit.gr/8018/;
+#EXTINF:-1 tvg-id="" tvg-name="Φάσμα 99,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1168.webp" group-title="Πελοπόννησος"
+https://fasmafm.radioca.st/stream?type=http&nocache=83
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία 100,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1169.webp" group-title="Πελοπόννησος"
+https://i.streams.ovh/sc/melodiapatras/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παρέα 104,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1170.webp" group-title="Πελοπόννησος"
+http://i.streams.ovh:9237
+#EXTINF:-1 tvg-id="" tvg-name="Ant1 Πάτρας 105,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1171.webp" group-title="Πελοπόννησος"
+https://ant1patra.live24.gr/ant1patra1053
+#EXTINF:-1 tvg-id="" tvg-name="Λεπάντο 101,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1173.webp" group-title="Πελοπόννησος"
+https://s30.myradiostream.com/:31754/listen.mp3?1677764240163?nocache=1677764240
+#EXTINF:-1 tvg-id="" tvg-name="Derti 105,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1175.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/tzcb5k453quvv
+#EXTINF:-1 tvg-id="" tvg-name="Ιόνιον FM 96,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1178.webp" group-title="Πελοπόννησος"
+https://stream3.proradio.gr/listen/ionion/ionionfm3rd
+#EXTINF:-1 tvg-id="" tvg-name="Επικοινωνία 89,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1183.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr/8608/;
+#EXTINF:-1 tvg-id="" tvg-name="Μοριάς 102,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1185.webp" group-title="Πελοπόννησος"
+https://stream.radiomorias.gr/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ανάμνηση 103,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1186.webp" group-title="Πελοπόννησος"
+https://shoutcast.k-planet.eu/8066/stream
+#EXTINF:-1 tvg-id="" tvg-name="Energy 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1189.webp" group-title="Στερεά Ελλάδα"
+https://netradio.live24.gr/energy942art
+#EXTINF:-1 tvg-id="" tvg-name="Ι.Μ. Αιτωλίας και Ακαρνανίας 106,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1190.webp" group-title="Στερεά Ελλάδα"
+https://sh.onweb.gr/8038/;
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Radio 96" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1197.webp" group-title="Μακεδονία"
+https://sh.onweb.gr/8624/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Κιβωτός 99,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1199.webp" group-title="Μακεδονία"
+https://sh.onweb.gr/8452/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ένωση 97,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1208.webp" group-title="Στερεά Ελλάδα"
+http://live.sugarweb.gr:80/973.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Αλιβέρι 102,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1210.webp" group-title="Στερεά Ελλάδα"
+http://88.99.239.52:9300/stream
+#EXTINF:-1 tvg-id="" tvg-name="HIT FM 103,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1211.webp" group-title="Στερεά Ελλάδα"
+https://cast.radiohost.ovh:2200/proxy/hitfm?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Nova FM 92,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1214.webp" group-title="Στερεά Ελλάδα"
+https://sh.onweb.gr:7125/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 94,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1215.webp" group-title="Στερεά Ελλάδα"
+https://sc2.streamwithq.com:2000/stream/Rithmos946
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1216.webp" group-title="Στερεά Ελλάδα"
+http://s7.onweb.gr:8554
+#EXTINF:-1 tvg-id="" tvg-name="Λαμία FM 1 96,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1218.webp" group-title="Στερεά Ελλάδα"
+https://sc2.streamwithq.com:2000/stream/LamiaFm1
+#EXTINF:-1 tvg-id="" tvg-name="ΙΜ Μονεμβασίας και Σπάρτης 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1221.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr/8862/;
+#EXTINF:-1 tvg-id="" tvg-name="Best Radio 103,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1222.webp" group-title="Πελοπόννησος"
+https://cast4.magicstreams.gr:2200/ssl/maiqrgfd?mp=/stream;
+#EXTINF:-1 tvg-id="" tvg-name="Life FM 88" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1225.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/life.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Χριστιανική Στέγη Καλαμάτας 102" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1226.webp" group-title="Πελοπόννησος"
+https://premium.streams.gr:8029/stream
+#EXTINF:-1 tvg-id="" tvg-name="Time FM  90,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1227.webp" group-title="Πελοπόννησος"
+https://solid67.streamupsolutions.com/proxy/rmjbkagy/stream
+#EXTINF:-1 tvg-id="" tvg-name="Κανάλι 1 94,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1228.webp" group-title="Πελοπόννησος"
+https://live.kanali1.gr:8001/kanali1
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτική Ανθολογία 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1230.webp" group-title="Πελοπόννησος"
+https://solid67.streamupsolutions.com/proxy/qddyuwck/stream
+#EXTINF:-1 tvg-id="" tvg-name="Pepper 96,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1233.webp" group-title="Αθήνα"
+https://pepper966.live24.gr/pepper9660
+#EXTINF:-1 tvg-id="" tvg-name="Αλήθεια Fm 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1237.webp" group-title="Αιγαίο"
+http://sc2.streamwithq.com:8070
+#EXTINF:-1 tvg-id="" tvg-name="Samothraki Web Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1252.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8860/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ι.Μ. Φθιώτιδας 89,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1384.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8264
+#EXTINF:-1 tvg-id="" tvg-name="Αίολος 92,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1430.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8900/stream
+#EXTINF:-1 tvg-id="" tvg-name="Akous. Gazi" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1706.webp" group-title="Internet Radios"
+https://live.akous.gr/akousgazi
+#EXTINF:-1 tvg-id="" tvg-name="Akous. Domotel Deluxe" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1708.webp" group-title="Internet Radios"
+https://live.akous.gr/akousdeluxe
+#EXTINF:-1 tvg-id="" tvg-name="Akous. 80s" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1709.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/akous80s
+#EXTINF:-1 tvg-id="" tvg-name="Τάλως FM 88,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1710.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8840/stream
+#EXTINF:-1 tvg-id="" tvg-name="Δημοτικό Κατερίνης 95,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1711.webp" group-title="Μακεδονία"
+https://neos.win:59530/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ρωμαίος 94" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1713.webp" group-title="Ήπειρος"
+http://rdst.win:9400/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παύλειος Λόγος Ι.Μ. Βέροιας 90,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1757.webp" group-title="Μακεδονία"
+http://eco.onestreaming.com:8548
+#EXTINF:-1 tvg-id="" tvg-name="Avanti 97,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1759.webp" group-title="Στερεά Ελλάδα"
+https://avanti977lamia.live24.gr/avanti977lamia
+#EXTINF:-1 tvg-id="" tvg-name="Μουσικός Παλμός 94,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1760.webp" group-title="Πελοπόννησος"
+http://solid2.streamupsolutions.com:24977/stream?type=http&nocache=86928
+#EXTINF:-1 tvg-id="" tvg-name="ΚΛΙΚ FM 106,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1762.webp" group-title="Αιγαίο"
+https://freakout.stream.laut.fm/freakout
+#EXTINF:-1 tvg-id="" tvg-name="Oscar Radio 90,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1765.webp" group-title="Στερεά Ελλάδα"
+https://sp1.32bit.gr/8008/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ι.Μ. Αργολίδος 105,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1770.webp" group-title="Πελοπόννησος"
+http://eco.onestreaming.com:8556
+#EXTINF:-1 tvg-id="" tvg-name="Magic FM Αγρίνιο 102,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1772.webp" group-title="Στερεά Ελλάδα"
+https://sonic.streams.ovh/9500/;
+#EXTINF:-1 tvg-id="" tvg-name="Best 90,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1787.webp" group-title="Ήπειρος"
+https://netradio.live24.gr/4uradio931
+#EXTINF:-1 tvg-id="" tvg-name="Heart 94,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1789.webp" group-title="Στερεά Ελλάδα"
+https://netradio.live24.gr/heart942
+#EXTINF:-1 tvg-id="" tvg-name="Kiss 100,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1792.webp" group-title="Θεσσαλία"
+https://sp2.streams.ovh/8096/stream
+#EXTINF:-1 tvg-id="" tvg-name="MAD Radio 107" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1793.webp" group-title="Θράκη"
+http://sc2.streamwithq.com:8018
+#EXTINF:-1 tvg-id="" tvg-name="Πολίτης 107,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1794.webp" group-title="Κύπρος"
+https://eco.onestreaming.com/proxy/politis/stream
+#EXTINF:-1 tvg-id="" tvg-name="Metro FM 97,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1797.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/metrofm978xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Party 97,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1798.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr:7024/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio ENA 87,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1799.webp" group-title="Internet Radios"
+http://s3.myradiostream.com:10968
+#EXTINF:-1 tvg-id="" tvg-name="Sport FM 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1801.webp" group-title="Θεσσαλία"
+https://www.gointernet.gr:9014/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Zarpa Radio 89,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1802.webp" group-title="Κρήτη"
+https://sh.onweb.gr/8454/stream
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos Fm 93,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1806.webp" group-title="Μακεδονία"
+https://neos.win:59320/stream
+#EXTINF:-1 tvg-id="" tvg-name="Πανόραμα 100,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1811.webp" group-title="Μακεδονία"
+https://radio.streamings.gr/proxy/panorama?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Metro Mall Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1812.webp" group-title="Internet Radios"
+https://srv.radiocaster.gr:9300/;?type=http&nocache=107036
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ενέργεια 106,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1813.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr:7025/;
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1814.webp" group-title="Internet Radios"
+http://samcloud.spacial.com/api/listen?sid=100053&rid=176479&f=mp3,any&br=128000,any&m=sc
+#EXTINF:-1 tvg-id="" tvg-name="FM 100,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1815.webp" group-title="Θεσσαλονίκη"
+https://live.fm100.gr/shoutcast/fm1006
+#EXTINF:-1 tvg-id="" tvg-name="Athens FM 106,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1820.webp" group-title="Internet Radios"
+https://shoutcast.k-planet.eu/9400/stream;
+#EXTINF:-1 tvg-id="" tvg-name="111 FM" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1822.webp" group-title="Internet Radios"
+https://cast.magicstreams.gr/sc/111radio/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μάνα Ελλάδα" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1826.webp" group-title="Internet Radios"
+https://cast.radiohost.ovh/elliniki?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Star Radio 104,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1827.webp" group-title="Αιγαίο"
+https://stream.zeno.fm/wqreogixiotuv
+#EXTINF:-1 tvg-id="" tvg-name="Ραδιόφωνο Άνω Βριλησσίων" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1831.webp" group-title="Internet Radios"
+https://s3.free-shoutcast.com/stream/18166
+#EXTINF:-1 tvg-id="" tvg-name="YES! 91,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1834.webp" group-title="Πελοπόννησος"
+https://ams-pioneer02.dedicateware.com:1060/;
+#EXTINF:-1 tvg-id="" tvg-name="Fly FM 88,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1835.webp" group-title="Κρήτη"
+http://eco.onestreaming.com:8602
+#EXTINF:-1 tvg-id="" tvg-name="Radio Olympos" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1836.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8146
+#EXTINF:-1 tvg-id="" tvg-name="Akous. InLove" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1839.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/akousbreeze
+#EXTINF:-1 tvg-id="" tvg-name="Star 95,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1841.webp" group-title="Ήπειρος"
+https://sp.streams.ovh/starfm957/stream
+#EXTINF:-1 tvg-id="" tvg-name="Life Radio 106,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1842.webp" group-title="Μακεδονία"
+http://cast.streams.ovh:9130/live
+#EXTINF:-1 tvg-id="" tvg-name="Kiss 98" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1843.webp" group-title="Θεσσαλία"
+https://s6.onweb.gr:7029/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Παρατηρητής 94" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1845.webp" group-title="Θράκη"
+https://s6.onweb.gr/8020/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Picasso 102,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1846.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/s87smqqfewzuv
+#EXTINF:-1 tvg-id="" tvg-name="ΡΑΔΙΟ ΔΙΣΤΟΜΟ 106,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1847.webp" group-title="Στερεά Ελλάδα"
+http://radio.icehosting.com:8091
+#EXTINF:-1 tvg-id="" tvg-name="Navagia.gr" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1852.webp" group-title="Internet Radios"
+https://cloudwebradio.com/9996/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="ThessRadio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1855.webp" group-title="Internet Radios"
+https://noc.ezhellas.com:30580/live?ver=154962
+#EXTINF:-1 tvg-id="" tvg-name="West Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1857.webp" group-title="Internet Radios"
+https://westradio.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="If Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1858.webp" group-title="Internet Radios"
+https://aphrodite.freespirits.gr:8040/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Focus 99,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1868.webp" group-title="Πελοπόννησος"
+https://cast.magicstreams.gr:9056/stream
+#EXTINF:-1 tvg-id="" tvg-name="Akous. My Classic" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1869.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/akousmyclassic
+#EXTINF:-1 tvg-id="" tvg-name="Akous. JazzIN" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1870.webp" group-title="Internet Radios"
+https://ice2.onestreaming.com/akousjazzin
+#EXTINF:-1 tvg-id="" tvg-name="Viva 88,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1871.webp" group-title="Μακεδονία"
+https://sh.onweb.gr/8030/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Μεγαλόνησος 89,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1875.webp" group-title="Κρήτη"
+https://rdst.win:48980/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός (Real Voice) 99,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1876.webp" group-title="Αιγαίο"
+https://netradio.live24.gr/realvoice995
+#EXTINF:-1 tvg-id="" tvg-name="Rock Velνet" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1881.webp" group-title="Internet Radios"
+https://stream.rcast.net/62225
+#EXTINF:-1 tvg-id="" tvg-name="80smania" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1883.webp" group-title="Internet Radios"
+http://solid9.streamupsolutions.com:8111/stream
+#EXTINF:-1 tvg-id="" tvg-name="D Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1886.webp" group-title="Internet Radios"
+http://s10.myradiostream.com:11198
+#EXTINF:-1 tvg-id="" tvg-name="Ελλάδα 94,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1894.webp" group-title="Αθήνα"
+http://stream.ellada943.gr:10198
+#EXTINF:-1 tvg-id="" tvg-name="Μήλος 108" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1897.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8125
+#EXTINF:-1 tvg-id="" tvg-name="Radio Must Athens" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1899.webp" group-title="Internet Radios"
+https://stream.radiomustathens.com/mpeghq
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο 1 102,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1903.webp" group-title="Θεσσαλία"
+http://solid55.streamupsolutions.com:32015/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ιστιαία 100,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1908.webp" group-title="Στερεά Ελλάδα"
+https://stream.myip.gr/proxy/radioist2?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Kiss fm 89" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1911.webp" group-title="Πελοπόννησος"
+https://kiss-89-kalamata.live24.gr/kiss89kalamata
+#EXTINF:-1 tvg-id="" tvg-name="Trance Athena" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1915.webp" group-title="Internet Radios"
+https://cast.streams.ovh:8008/;
+#EXTINF:-1 tvg-id="" tvg-name="Just Radio 96,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1920.webp" group-title="Πελοπόννησος"
+https://live.just964.gr:8000/main
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hot Lips" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1926.webp" group-title="Internet Radios"
+https://netradio.live24.gr/radiohotlips
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία FM 106,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1927.webp" group-title="Κρήτη"
+https://rdst.win:59316/stream
+#EXTINF:-1 tvg-id="" tvg-name="Fresh FM 92,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1936.webp" group-title="Μακεδονία"
+https://eu1.fastcast4u.com/proxy/lmaren00?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="Radio City 102,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1937.webp" group-title="Μακεδονία"
+https://i2.streams.ovh:7050/live
+#EXTINF:-1 tvg-id="" tvg-name="Mad Radio 107" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1942.webp" group-title="Στερεά Ελλάδα"
+https://sc2.streamwithq.com:2000/stream/MadRadio107
+#EXTINF:-1 tvg-id="" tvg-name="NGradio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1945.webp" group-title="Internet Radios"
+https://rdst.win:59178/stream
+#EXTINF:-1 tvg-id="" tvg-name="Play Gold" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1949.webp" group-title="Internet Radios"
+https://stream.radiojar.com/431m8b6qcm5tv
+#EXTINF:-1 tvg-id="" tvg-name="Melodies Web Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1963.webp" group-title="Internet Radios"
+https://i.streams.ovh/sc/melodies/stream
+#EXTINF:-1 tvg-id="" tvg-name="Αληθινή Εν Θεώ Ζωή" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1965.webp" group-title="Internet Radios"
+https://stream.tligradio.org/listen/greek/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Play Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1969.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8222
+#EXTINF:-1 tvg-id="" tvg-name="Evolution Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1970.webp" group-title="Internet Radios"
+https://i3.streams.ovh:12000/live
+#EXTINF:-1 tvg-id="" tvg-name="Greek Choice 91,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1971.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/choice/stream
+#EXTINF:-1 tvg-id="" tvg-name="Capital FM 107" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1974.webp" group-title="Μακεδονία"
+https://neos.win:59350/stream
+#EXTINF:-1 tvg-id="" tvg-name="AK Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1975.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/akradio
+#EXTINF:-1 tvg-id="" tvg-name="Ant1 94" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1976.webp" group-title="Μακεδονία"
+https://ant1grevena.live24.gr/ant1grevena
+#EXTINF:-1 tvg-id="" tvg-name="Χρώμα 91,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1979.webp" group-title="Αιγαίο"
+https://netradio.live24.gr/hroma918
+#EXTINF:-1 tvg-id="" tvg-name="North 98" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1984.webp" group-title="Θεσσαλονίκη"
+http://netradio.live24.gr:80/north98thess
+#EXTINF:-1 tvg-id="" tvg-name="Giga Fm 105,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1985.webp" group-title="Ήπειρος"
+https://s46.myradiostream.com/:7322/listen.mp3?nocache=1667217152
+#EXTINF:-1 tvg-id="" tvg-name="Ιερά Αρχιεπισκοπή Κρήτης 99,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1989.webp" group-title="Κρήτη"
+https://i7.streams.ovh/ic/iakradi1/stream 
+#EXTINF:-1 tvg-id="" tvg-name="Mikel Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1993.webp" group-title="Internet Radios"
+https://i4.streams.ovh/sc/kpaliotz/;stream.mp3?_=2
+#EXTINF:-1 tvg-id="" tvg-name="Κανάλι 5 97,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1997.webp" group-title="Θράκη"
+https://solid1.streamupsolutions.com/proxy/kanali5?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Music Society" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/1999.webp" group-title="Internet Radios"
+https://radio.streamings.gr/proxy/musicsociety?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Siera FM 105,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2000.webp" group-title="Μακεδονία"
+https://radio.sierafm.gr:55469/Sierafm
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ιόνιο 99,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2002.webp" group-title="Ήπειρος"
+http://167.114.131.90:5192
+#EXTINF:-1 tvg-id="" tvg-name="Radio Paris" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2003.webp" group-title="Internet Radios"
+http://stream.radiojar.com/kddqnna7yxmtv
+#EXTINF:-1 tvg-id="" tvg-name="Beton7 Art Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2004.webp" group-title="Internet Radios"
+https://uk1.streamingpulse.com/ssl/b7artradio
+#EXTINF:-1 tvg-id="" tvg-name="Δίαυλος 99,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2005.webp" group-title="Πελοπόννησος"
+https://server.el1.info:37060/stream
+#EXTINF:-1 tvg-id="" tvg-name="Αρμονία" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2008.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8447
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Άποψη" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2013.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8894/stream
+#EXTINF:-1 tvg-id="" tvg-name="Limnos Fm 100" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2014.webp" group-title="Αιγαίο"
+http://radio.limnosfm100.gr:9998
+#EXTINF:-1 tvg-id="" tvg-name="Mansta Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2028.webp" group-title="Internet Radios"
+https://i6.streams.ovh:16012/stream
+#EXTINF:-1 tvg-id="" tvg-name="Δρόμος 106,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2030.webp" group-title="Κύπρος"
+http://dromoscyprus.live24.gr:80/dromoscyprus
+#EXTINF:-1 tvg-id="" tvg-name="Πανικός FM 95,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2039.webp" group-title="Αθήνα"
+http://toradio.cc:8010/stream
+#EXTINF:-1 tvg-id="" tvg-name="Eyeonyou Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2044.webp" group-title="Internet Radios"
+http://listen.radionomy.com/eyeonyou
+#EXTINF:-1 tvg-id="" tvg-name="Feel Good Radio 104,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2045.webp" group-title="Αιγαίο"
+https://feelgood.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Arion Christmas" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2050.webp" group-title="Internet Radios"
+https://eco.onestreaming.com/proxy/arionchristmas/stream
+#EXTINF:-1 tvg-id="" tvg-name="YouSmile" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2051.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8352
+#EXTINF:-1 tvg-id="" tvg-name="I Feel Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2057.webp" group-title="Internet Radios"
+https://radio.webhosting4u.gr/stream/ifeelradio
+#EXTINF:-1 tvg-id="" tvg-name="Akous. Πάλκο" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2058.webp" group-title="Internet Radios"
+https://live.akous.gr/akouspalko
+#EXTINF:-1 tvg-id="" tvg-name="Akous. Breeze" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2063.webp" group-title="Internet Radios"
+https://live.akous.gr/akousbreeze
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Αποσπερίτης 94,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2064.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8600
+#EXTINF:-1 tvg-id="" tvg-name="Venus 91" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2066.webp" group-title="Κρήτη"
+https://i3.streams.ovh:9100/stream
+#EXTINF:-1 tvg-id="" tvg-name="PERIPOU Web Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2073.webp" group-title="Internet Radios"
+https://listen.radionomy.com/peripou-web-radio
+#EXTINF:-1 tvg-id="" tvg-name="Melody 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2076.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/melody.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ι.Μ. Παροναξίας 92,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2077.webp" group-title="Αιγαίο"
+http://live.onweb.gr:8212
+#EXTINF:-1 tvg-id="" tvg-name="Radio Family 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2078.webp" group-title="Κρήτη"
+https://www.fmlive.gr/8002/stream
+#EXTINF:-1 tvg-id="" tvg-name="TechHead Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2081.webp" group-title="Internet Radios"
+https://sh.onweb.gr/8434/;
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Πρίσμα 91,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2085.webp" group-title="Ήπειρος"
+http://i3.streams.ovh:12210
+#EXTINF:-1 tvg-id="" tvg-name="ALPHA News 95,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2086.webp" group-title="Μακεδονία"
+https://radio.streamings.gr/proxy/alphafmdrama?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Paranoid" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2087.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8394
+#EXTINF:-1 tvg-id="" tvg-name="European School Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2098.webp" group-title="Internet Radios"
+https://icecast.europeanschoolradio.eu/live/esradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Χρώμα 105,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2100.webp" group-title="Θεσσαλονίκη"
+https://hroma1058thess.live24.gr/hroma1058thess
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 99,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2105.webp" group-title="Ιόνιο"
+https://sh.onweb.gr/8832/stream
+#EXTINF:-1 tvg-id="" tvg-name="Error Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2106.webp" group-title="Internet Radios"
+http://streaming.radionomy.com/Error-Radio
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2108.webp" group-title="Θεσσαλία"
+https://sh.onweb.gr/8892/;
+#EXTINF:-1 tvg-id="" tvg-name="DeeJay 95,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2109.webp" group-title="Θεσσαλία"
+https://a6.asurahosting.com:7030/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Δίκτυο FM 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2112.webp" group-title="Κρήτη"
+https://eu10.fastcast4u.com/diktyofm
+#EXTINF:-1 tvg-id="" tvg-name="Roxx Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2117.webp" group-title="Internet Radios"
+http://stream.radiojar.com/aay95tkmb
+#EXTINF:-1 tvg-id="" tvg-name="THNX Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2118.webp" group-title="Internet Radios"
+http://radio.streamings.gr:8105/stream
+#EXTINF:-1 tvg-id="" tvg-name="Γλέντι 101,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2123.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/glenti1011xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Legend 101,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2124.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/legend1016xanthi
+#EXTINF:-1 tvg-id="" tvg-name="More 103" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2125.webp" group-title="Θεσσαλονίκη"
+http://eco.onestreaming.com:8041
+#EXTINF:-1 tvg-id="" tvg-name="Holiday Radio 95,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2126.webp" group-title="Αιγαίο"
+http://eco.onestreaming.com:8438
+#EXTINF:-1 tvg-id="" tvg-name="NRG+ 98,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2127.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8834/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Καλάβρυτα" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2128.webp" group-title="Internet Radios"
+https://rdst.win:48030/live
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos Radio 93" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2129.webp" group-title="Μακεδονία"
+http://cast5.magicstreams.gr:8132
+#EXTINF:-1 tvg-id="" tvg-name="Music 101,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2130.webp" group-title="Ήπειρος"
+http://i3.streams.ovh:12022/stream
+#EXTINF:-1 tvg-id="" tvg-name="My 80s" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2138.webp" group-title="Internet Radios"
+http://cast2.radiohost.ovh:9051
+#EXTINF:-1 tvg-id="" tvg-name="Street Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2142.webp" group-title="Internet Radios"
+https://streamyourdream.org:8104/stream
+#EXTINF:-1 tvg-id="" tvg-name="CNG" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2144.webp" group-title="Internet Radios"
+https://n0a.radiojar.com/pr9r38w802hvv?rj-ttl=5&rj-tok=AAABhZrbDEQAk9YJ31JbkV_spg
+#EXTINF:-1 tvg-id="" tvg-name="Asteri Fm 88,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2148.webp" group-title="Πελοπόννησος"
+https://asterifm.gr/radio/stream
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Fresh Flavors" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2149.webp" group-title="Internet Radios"
+https://fresh.vanillaradio.com:8009/live
+#EXTINF:-1 tvg-id="" tvg-name="My FM 89,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2157.webp" group-title="Θράκη"
+http://cast.radiohost.ovh:9037
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Salad 96,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2161.webp" group-title="Θεσσαλονίκη"
+http://178.33.135.246:5262/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Melody 96,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2162.webp" group-title="Αιγαίο"
+https://eu4.fastcast4u.com/proxy/jlwmwogj?mp=/1.mp3&_=1
+#EXTINF:-1 tvg-id="" tvg-name="Politia FM 106,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2165.webp" group-title="Κύπρος"
+https://radio.shoutcheap.com/proxy/skyriaco/stream
+#EXTINF:-1 tvg-id="" tvg-name="Red Dancer Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2167.webp" group-title="Internet Radios"
+http://streaming.radionomy.com/RedDancer
+#EXTINF:-1 tvg-id="" tvg-name="Διόνυσος FM 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2171.webp" group-title="Μακεδονία"
+https://s6.onweb.gr/8054/;
+#EXTINF:-1 tvg-id="" tvg-name="Kiis Extra 95,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2174.webp" group-title="Ιόνιο"
+https://streams.enjoyfm.gr:48502/kiis958.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Αρκαδία 93,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2175.webp" group-title="Πελοπόννησος"
+http://stream.radiojar.com/g34k4f92n74tv
+#EXTINF:-1 tvg-id="" tvg-name="Ορθόδοξη Μαρτυρία 104" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2179.webp" group-title="Θεσσαλία"
+http://streamyourdream.org:18042/imd
+#EXTINF:-1 tvg-id="" tvg-name="Focus FM 103,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2180.webp" group-title="Θεσσαλονίκη"
+https://ice.greekstream.net/focusfm
+#EXTINF:-1 tvg-id="" tvg-name="Ι.Μ. Καστοριάς" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2184.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8498
+#EXTINF:-1 tvg-id="" tvg-name="ALPHA News 106,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2190.webp" group-title="Κρήτη"
+https://antares.dribbcast.com/proxy/alpha1062?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Εύριπος FM 90" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2193.webp" group-title="Στερεά Ελλάδα"
+https://evripos90.radioca.st/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="ManCode Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2195.webp" group-title="Internet Radios"
+https://stream.radiojar.com/2kqw1800x68uv
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 106,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2199.webp" group-title="Μακεδονία"
+https://sp2.streams.ovh/8102/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Αλέξανδρος 106,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2202.webp" group-title="Μακεδονία"
+http://proxima.shoutca.st:9012/;
+#EXTINF:-1 tvg-id="" tvg-name="Χρώμα FM 102,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2204.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/xroma.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Θέμα Πάτρας 98,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2206.webp" group-title="Πελοπόννησος"
+https://radio.themapatras.gr/radio
+#EXTINF:-1 tvg-id="" tvg-name="4Life Radio Gr" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2207.webp" group-title="Internet Radios"
+https://cast.radiohost.ovh:2200/proxy/fourlife1?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκό Ραδιόφωνο" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2208.webp" group-title="Internet Radios"
+http://stream.zeno.fm/58uqx820dnzuv
+#EXTINF:-1 tvg-id="" tvg-name="Karamela 92,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2210.webp" group-title="Θεσσαλονίκη"
+https://netradio.live24.gr/924fm-thess
+#EXTINF:-1 tvg-id="" tvg-name="Σκάνδαλο Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2217.webp" group-title="Internet Radios"
+http://i5.streams.ovh:14008/stream/?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="EuroSky 100,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2218.webp" group-title="Θράκη"
+http://cast4.magicstreams.gr:10155/live
+#EXTINF:-1 tvg-id="" tvg-name="ΡαδιοΤσάμπουνο" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2222.webp" group-title="Internet Radios"
+http://stream.radiojar.com/gbrgkbcfnq5tv
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Σουξέ" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2225.webp" group-title="Internet Radios"
+http://stream.radiojar.com/ugs98yvkb
+#EXTINF:-1 tvg-id="" tvg-name="NRG 98,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2227.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8834/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία 106,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2228.webp" group-title="Θεσσαλία"
+https://eu5.fastcast4u.com/proxy/melodia?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="Radio Memory" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2229.webp" group-title="Internet Radios"
+http://i2.streams.ovh:7233/stream?type=http&nocache=135
+#EXTINF:-1 tvg-id="" tvg-name="Λελέβωσε 101,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2230.webp" group-title="Μακεδονία"
+https://neos.win:59652/stream
+#EXTINF:-1 tvg-id="" tvg-name="Heat Classic" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2233.webp" group-title="Internet Radios"
+https://solid1.streamupsolutions.com/proxy/neukptkl?mp=/stream?ver=829744
+#EXTINF:-1 tvg-id="" tvg-name="Δίφωνο" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2250.webp" group-title="Internet Radios"
+https://i4.streams.ovh/sc/difono/stream
+#EXTINF:-1 tvg-id="" tvg-name="Notosnews 97,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2253.webp" group-title="Αιγαίο"
+https://i.streams.ovh:9331/stream
+#EXTINF:-1 tvg-id="" tvg-name="Coni OnAir" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2255.webp" group-title="Internet Radios"
+https://streams.radiomast.io/01fc3a97-3029-4f16-aa3e-ef242b042ff5
+#EXTINF:-1 tvg-id="" tvg-name="Αγ. Δημήτριος Ακροπόλεως 93,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2256.webp" group-title="Κύπρος"
+http://eco.onestreaming.com:8474
+#EXTINF:-1 tvg-id="" tvg-name="Musicfun" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2259.webp" group-title="Internet Radios"
+http://live.musicfun.gr:9898
+#EXTINF:-1 tvg-id="" tvg-name="Radio Exodos" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2260.webp" group-title="Internet Radios"
+https://fra-pioneer08.dedicateware.com/exodos1
+#EXTINF:-1 tvg-id="" tvg-name="Black Duck Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2261.webp" group-title="Internet Radios"
+http://162.13.25.174/2p937t2kb.mp3
+#EXTINF:-1 tvg-id="" tvg-name="CULT Radio 99,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2265.webp" group-title="Στερεά Ελλάδα"
+https://sh.onweb.gr/8876/;
+#EXTINF:-1 tvg-id="" tvg-name="Klarina 24" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2268.webp" group-title="Internet Radios"
+https://s2.e-resellers.gr/proxy/klarina24fmradio/stream
+#EXTINF:-1 tvg-id="" tvg-name="Happy Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2270.webp" group-title="Internet Radios"
+https://stream.zeno.fm/tz0kctmyuk8uv
+#EXTINF:-1 tvg-id="" tvg-name="Στο Μωβ" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2274.webp" group-title="Θεσσαλονίκη"
+http://stream.radiojar.com:80/kk01hepkb.mp3
+#EXTINF:-1 tvg-id="" tvg-name="OJO Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2275.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/ojo/stream
+#EXTINF:-1 tvg-id="" tvg-name="Έκφραση 97" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2290.webp" group-title="Αιγαίο"
+https://s26.myradiostream.com/:18676/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Lemon 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2291.webp" group-title="Μακεδονία"
+https://cast.streams.ovh/sc/radio888/stream
+#EXTINF:-1 tvg-id="" tvg-name="Αλέξιος Κομνηνός 105,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2292.webp" group-title="Θράκη"
+http://eco.onestreaming.com:8027
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Deep Flavors" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2293.webp" group-title="Internet Radios"
+https://stream.vanillaradio.com:8012/stream
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Smooth Flavors" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2294.webp" group-title="Internet Radios"
+https://smooth.vanillaradio.com:8006/live
+#EXTINF:-1 tvg-id="" tvg-name="Rock Lab" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2295.webp" group-title="Internet Radios"
+https://stream-23.zeno.fm/5fcz2fkbqtzuv?zs=7McVNLPlQsO3Sv4BYqGfZQ
+#EXTINF:-1 tvg-id="" tvg-name="Ok Web Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2298.webp" group-title="Internet Radios"
+https://cast.magicstreams.gr/ic/dcjzapew/stream
+#EXTINF:-1 tvg-id="" tvg-name="G Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2299.webp" group-title="Internet Radios"
+https://stream.radiojar.com/garavelas-radio-gr
+#EXTINF:-1 tvg-id="" tvg-name="Crystal Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2302.webp" group-title="Internet Radios"
+https://stream.radiojar.com/htczr9epmchvv
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Ικαρία 87,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2303.webp" group-title="Αιγαίο"
+http://stream.radio-ikaria.gr:8000
+#EXTINF:-1 tvg-id="" tvg-name="Play Lounge" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2305.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8683
+#EXTINF:-1 tvg-id="" tvg-name="Mix Greek" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2306.webp" group-title="Κύπρος"
+https://eco.onestreaming.com/proxy/mixfmgreek/stream
+#EXTINF:-1 tvg-id="" tvg-name="Rebel 105,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2307.webp" group-title="Αθήνα"
+https://netradio.live24.gr/rebel1052
+#EXTINF:-1 tvg-id="" tvg-name="ΕΡΤ Ζακύνθου 95,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2308.webp" group-title="Ιόνιο"
+https://radiostreaming.ert.gr/ert-zakynthos
+#EXTINF:-1 tvg-id="" tvg-name="Yolo 102,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2310.webp" group-title="Στερεά Ελλάδα"
+https://netradio.live24.gr/yoloradio
+#EXTINF:-1 tvg-id="" tvg-name="Στόχος 104,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2311.webp" group-title="Στερεά Ελλάδα"
+https://rdst.win:37777/stream
+#EXTINF:-1 tvg-id="" tvg-name="Παραπολιτικά 102,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2312.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:8026/stream
+#EXTINF:-1 tvg-id="" tvg-name="Ble Fm 93,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2313.webp" group-title="Μακεδονία"
+https://radio.lancom.gr:9004/stream3
+#EXTINF:-1 tvg-id="" tvg-name="Easy Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2314.webp" group-title="Κύπρος"
+http://eco.onestreaming.com:8472
+#EXTINF:-1 tvg-id="" tvg-name="Derti" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2316.webp" group-title="Internet Radios"
+https://derti.live24.gr/derty1000
+#EXTINF:-1 tvg-id="" tvg-name="My Radio 104,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2317.webp" group-title="Αθήνα"
+https://streaming.myradio1046.fm/myradio1046
+#EXTINF:-1 tvg-id="" tvg-name="Έμφασις 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2318.webp" group-title="Πελοπόννησος"
+https://streams.enjoyfm.gr:48502/emfasis.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Cyprus Chinese Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2319.webp" group-title="Κύπρος"
+https://live3.istoikona.net/proxy/ccnice/stream
+#EXTINF:-1 tvg-id="" tvg-name="Sport Fm 95" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2320.webp" group-title="Κύπρος"
+http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ελεύθερο 99" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2321.webp" group-title="Μακεδονία"
+http://hyades.shoutca.st:8770/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio 322" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2325.webp" group-title="Internet Radios"
+https://stream.zeno.fm/qdi2wkplpdwuv
+#EXTINF:-1 tvg-id="" tvg-name="Παλμός" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2327.webp" group-title="Internet Radios"
+https://i.streams.ovh/sc/palmospatras/stream
+#EXTINF:-1 tvg-id="" tvg-name="Eoellas Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2328.webp" group-title="Μακεδονία"
+http://radio.streamings.gr:8012/live
+#EXTINF:-1 tvg-id="" tvg-name="Love 106,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2329.webp" group-title="Μακεδονία"
+https://radio.1055rock.gr:32669/live
+#EXTINF:-1 tvg-id="" tvg-name="Smart 104,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2330.webp" group-title="Κρήτη"
+https://smartradio1045.live24.gr/smartradio1045
+#EXTINF:-1 tvg-id="" tvg-name="Ο Αληθινός Λόγος 93,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2331.webp" group-title="Κύπρος"
+https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="Star 88,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2334.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/star888xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Ιερά Μητρόπολις Άρτης 106,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2335.webp" group-title="Ήπειρος"
+https://i.streams.ovh/sc/imartis/stream
+#EXTINF:-1 tvg-id="" tvg-name="4u Radio 93,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2336.webp" group-title="Ήπειρος"
+https://netradio.live24.gr/4uradio931
+#EXTINF:-1 tvg-id="" tvg-name="Melody 94,9" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2337.webp" group-title="Ήπειρος"
+http://i2.streams.ovh:7121
+#EXTINF:-1 tvg-id="" tvg-name="Κρητικόφωνο" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2339.webp" group-title="Κρήτη"
+https://sp2.streams.ovh/8054/stream
+#EXTINF:-1 tvg-id="" tvg-name="Energy 101,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2340.webp" group-title="Ήπειρος"
+http://ample.radiojar.com/apb4wybq36duv.mp3
+#EXTINF:-1 tvg-id="" tvg-name="L Radio 87,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2343.webp" group-title="Πελοπόννησος"
+https://sh.onweb.gr/8472/;
+#EXTINF:-1 tvg-id="" tvg-name="Brake FM 100,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2344.webp" group-title="Πελοπόννησος"
+http://proradio.gr:8004/brake
+#EXTINF:-1 tvg-id="" tvg-name="Ζάκρος Radio 91,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2345.webp" group-title="Κρήτη"
+https://cloudwebradio.com/8288/;:8288/;
+#EXTINF:-1 tvg-id="" tvg-name="Cinar FM 91,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2346.webp" group-title="Θράκη"
+https://cinarfm.ozelip.com/9964/;
+#EXTINF:-1 tvg-id="" tvg-name="Μητρόπολη Κομοτηνής" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2347.webp" group-title="Θράκη"
+http://ice.streamcloud.mediacdn.com:80/imkomotini
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Radio 105" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2348.webp" group-title="Κρήτη"
+https://webradio.neatv.gr:8443/stream
+#EXTINF:-1 tvg-id="" tvg-name="Αντέννα Δυτ. Κρήτης 97,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2349.webp" group-title="Κρήτη"
+http://sc2.streamwithq.com:8008
+#EXTINF:-1 tvg-id="" tvg-name="Ρυθμός 97,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2350.webp" group-title="Κρήτη"
+http://sc2.streamwithq.com:8034
+#EXTINF:-1 tvg-id="" tvg-name="Planet Λακωνίας 102,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2351.webp" group-title="Πελοπόννησος"
+http://nemstream.ddns.net:12032
+#EXTINF:-1 tvg-id="" tvg-name="Live FM Radio 97,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2352.webp" group-title="Στερεά Ελλάδα"
+https://s2.e-resellers.gr/proxy/live978/stream
+#EXTINF:-1 tvg-id="" tvg-name="Γλέντι FM 89,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2353.webp" group-title="Στερεά Ελλάδα"
+http://s2.e-resellers.gr:8076
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός 96,2" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2355.webp" group-title="Στερεά Ελλάδα"
+https://sonic.streams.ovh/9870/stream
+#EXTINF:-1 tvg-id="" tvg-name="Art Fm 103,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2358.webp" group-title="Ήπειρος"
+https://i2.streams.ovh:2200/ssl/artfm?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Musica Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2359.webp" group-title="Internet Radios"
+https://stream.radiojar.com/w6c6bssk95vtv
+#EXTINF:-1 tvg-id="" tvg-name="Cool Radio 916" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2361.webp" group-title="Κύπρος"
+http://eco.onestreaming.com:8169
+#EXTINF:-1 tvg-id="" tvg-name="Status 107,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2362.webp" group-title="Θεσσαλονίκη"
+https://loki.mental-media.gr/proxy/statusf1?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Cherry" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2365.webp" group-title="Internet Radios"
+http://eco.onestreaming.com:8101
+#EXTINF:-1 tvg-id="" tvg-name="Ράδιο Σάρωθρον" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2367.webp" group-title="Internet Radios"
+https://radios.studio110.eu/radio/8010/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Τρανζίστορ" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2368.webp" group-title="Θεσσαλονίκη"
+https://metromedia.live24.gr/tranzistor1003thess
+#EXTINF:-1 tvg-id="" tvg-name="Freegr Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2370.webp" group-title="Internet Radios"
+https://s7.myradiostream.com:59540/;
+#EXTINF:-1 tvg-id="" tvg-name="Forever 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2371.webp" group-title="Μακεδονία"
+https://lofos.win:59630/stream
+#EXTINF:-1 tvg-id="" tvg-name="Zucca Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2372.webp" group-title="Internet Radios"
+https://stream.zuccaradio.com/stream
+#EXTINF:-1 tvg-id="" tvg-name="Blues Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2377.webp" group-title="Internet Radios"
+https://i4.streams.ovh/sc/bluesrad/stream
+#EXTINF:-1 tvg-id="" tvg-name="Virus Fm 105,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2380.webp" group-title="Θράκη"
+https://onairmediagroup.live24.gr/virus1055xanthi
+#EXTINF:-1 tvg-id="" tvg-name="Στο Κόκκινο 91,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2381.webp" group-title="Θεσσαλονίκη"
+http://stream.radiojar.com/275p8ssmb
+#EXTINF:-1 tvg-id="" tvg-name="Dust Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2382.webp" group-title="Internet Radios"
+https://eu10.fastcast4u.com:15950/;
+#EXTINF:-1 tvg-id="" tvg-name="Owl Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2383.webp" group-title="Internet Radios"
+http://stream.radiojar.com/hm4w9ap5wv8uv
+#EXTINF:-1 tvg-id="" tvg-name="Άγιος Οικουμένιος 102" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2384.webp" group-title="Στερεά Ελλάδα"
+http://eco.onestreaming.com:8828/stream
+#EXTINF:-1 tvg-id="" tvg-name="Prisma 106,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2385.webp" group-title="Πελοπόννησος"
+http://i3.streams.ovh:12210/;listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="Ορθόδοξος Λόγος 105,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2386.webp" group-title="Ήπειρος"
+http://eco.onestreaming.com:8842/stream
+#EXTINF:-1 tvg-id="" tvg-name="Eternal Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2387.webp" group-title="Internet Radios"
+https://stream.radiojar.com/su1eg54afzwtv
+#EXTINF:-1 tvg-id="" tvg-name="Argolida Fm 103,8" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2388.webp" group-title="Πελοπόννησος"
+https://24streams.gr:8100/stream
+#EXTINF:-1 tvg-id="" tvg-name="Λαϊκός Fm 107,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2389.webp" group-title="Πελοπόννησος"
+https://shoutcast.k-planet.eu/8056/stream;
+#EXTINF:-1 tvg-id="" tvg-name="En Lefko 87,7" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2392.webp" group-title="Αθήνα"
+https://stream.rcs.revma.com/ur9z1gyzcd3vv
+#EXTINF:-1 tvg-id="" tvg-name="Red 96,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2393.webp" group-title="Αθήνα"
+https://stream.rcs.revma.com/n0cpesyzcd3vv
+#EXTINF:-1 tvg-id="" tvg-name="Primo 106,1" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2394.webp" group-title="Θεσσαλονίκη"
+http://radio.lancom.gr:8014/stream5
+#EXTINF:-1 tvg-id="" tvg-name="Δεύτερο Λαϊκά" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2395.webp" group-title="Αθήνα"
+https://radiostreaming.ert.gr/ert-talaika
+#EXTINF:-1 tvg-id="" tvg-name="Pride 98,6" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2396.webp" group-title="Αθήνα"
+https://politismedia-sec.live24.gr/streameepride
+#EXTINF:-1 tvg-id="" tvg-name="Παιδάκι 97,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2397.webp" group-title="Θεσσαλονίκη"
+https://paidaki975.radioca.st
+#EXTINF:-1 tvg-id="" tvg-name="Fun Radio 104,3" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2398.webp" group-title="Πελοπόννησος"
+https://solid9.streamupsolutions.com/proxy/wpgqrttp/stream
+#EXTINF:-1 tvg-id="" tvg-name="Happy 104" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2399.webp" group-title="Αθήνα"
+https://ath10400fm.live24.gr/ath10400fm
+#EXTINF:-1 tvg-id="" tvg-name="Alepou Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2400.webp" group-title="Internet Radios"
+http://stream.radiojar.com/h693vkmhe5uvv
+#EXTINF:-1 tvg-id="" tvg-name="Amigo Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2401.webp" group-title="Internet Radios"
+https://s42.radiolize.com/radio/8050/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio DJ 105" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2402.webp" group-title="Πελοπόννησος"
+https://solid67.streamupsolutions.com/proxy/dlnuqkgx/stream
+#EXTINF:-1 tvg-id="" tvg-name="Μελωδία Θεσσαλονίκης 98" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2403.webp" group-title="Θεσσαλονίκη"
+https://netradio.live24.gr/north98thess
+#EXTINF:-1 tvg-id="" tvg-name="Extacy Radio" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2404.webp" group-title="Θεσσαλονίκη"
+https://stream.extacyradio.gr/stream/8060
+#EXTINF:-1 tvg-id="" tvg-name="Dromos 105,4" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2405.webp" group-title="Κρήτη"
+https://sc2.streamwithq.com:2000/stream/DromosFm1054
+#EXTINF:-1 tvg-id="" tvg-name="Dromos 100,5" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2406.webp" group-title="Κύπρος"
+https://dromoscyprus.live24.gr/dromoscyprus
+#EXTINF:-1 tvg-id="" tvg-name="Jackson Palace" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2407.webp" group-title="Internet Radios"
+https://jacksonspalace.radioca.st/stream?type=http&nocache=220
+#EXTINF:-1 tvg-id="" tvg-name="Real Xmas" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2408.webp" group-title="Αθήνα"
+https://realxmas.live24.gr/realxmas
+#EXTINF:-1 tvg-id="" tvg-name="Arion Christmas" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2409.webp" group-title="Internet Radios"
+https://eco.onestreaming.com/proxy/arionchristmas/stream
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Christmas" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2410.webp" group-title="Αθήνα"
+https://galaxy.live24.gr/galaxy9292
+#EXTINF:-1 tvg-id="" tvg-name="Kissmass  Kiss FM" tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/st/2411.webp" group-title="Αθήνα"
+https://netradio.live24.gr/kiss-web-xmas

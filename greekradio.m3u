@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0 CUID="1" tvg-name="TRT FM" tvg-id="trtfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/trtfm.png" group-title="RADYO",TRT FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:0 CUID="2" tvg-name="TRT RADYO 1" tvg-id="trtradyo1" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/trtradyo1.png" group-title="RADYO",TRT RADYO 1
+http://46.20.7.125/listen.pls
+#EXTINF:0 CUID="3" tvg-name="KRAL FM" tvg-id="kralfm" tvg-logo="https://img-s2.onedio.com/id-5339659b9a6d89201900018a/rev-0/w-150/h-150/f-jpg/s-2009386c12518e390c916f1c431414343888373b.jpg" group-title="RADYO",KRAL FM
+https://dyg.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:0 CUID="4" tvg-name="KRAL POP" tvg-id="kralpop" tvg-logo="https://img-s1.onedio.com/id-533965d1891d4791190001a1/rev-0/w-150/h-150/f-jpg/s-f5b2496e55c3c1386127b5204780614f1771144a.jpg" group-title="RADYO",KRAL POP
+https://dyg.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:0 CUID="5" tvg-name="POWER FM" tvg-id="powerfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/powerfm.png" group-title="RADYO",POWER FM
+https://powerfm.listenpowerapp.com/powerfm/playlist.m3u8
+#EXTINF:0 CUID="6" tvg-name="POWER TURK" tvg-id="powerturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/powerturk.png" group-title="RADYO",POWER TURK
+https://powerturk.listenpowerapp.com/powerturk/playlist.m3u8
+#EXTINF:0 CUID="7" tvg-name="METRO FM" tvg-id="metrofm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/metrofm.png" group-title="RADYO",METRO FM
+https://karnaval.radyotvonline.net/metrofm/playlist.m3u8
+#EXTINF:0 CUID="8" tvg-name="SUPER FM" tvg-id="superfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/superfm.png" group-title="RADYO",SUPER FM
+https://karnaval.radyotvonline.net/superfm/playlist.m3u8
+#EXTINF:0 CUID="9" tvg-name="JOY FM" tvg-id="joyfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/joyfm.png" group-title="RADYO",JOY FM
+https://karnaval.radyotvonline.net/joyfm/playlist.m3u8
+#EXTINF:0 CUID="10" tvg-name="JOY TURK" tvg-id="joyturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/joyturk.png" group-title="RADYO",JOY TURK
+https://karnaval.radyotvonline.net/joyturk/playlist.m3u8
+#EXTINF:0 CUID="11" tvg-name="FENOMEN" tvg-id="fenomen" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyofenomen.png" group-title="RADYO",FENOMEN
+https://fenomen.radyotvonline.net/fenomen/playlist.m3u8
+#EXTINF:0 CUID="12" tvg-name="ALEM FM" tvg-id="alemfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/alemfm.png" group-title="RADYO",ALEM FM
+https://turkmedya.radyotvonline.net/alemfm/playlist.m3u8
+#EXTINF:0 CUID="13" tvg-name="BEST FM" tvg-id="bestfm" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/bestfm.png" group-title="RADYO",BEST FM
+https://best.radyotvonline.net/bestfm/playlist.m3u8
+#EXTINF:0 CUID="14" tvg-name="KAFA RADYO" tvg-id="kafaradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/kafaradyo.png" group-title="RADYO",KAFA RADYO
+https://kafaradyo.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:0 CUID="15" tvg-name="RADYO VIVA" tvg-id="radyoviva" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyoviva.png" group-title="RADYO",RADYO VIVA
+https://turkmedya.radyotvonline.net/radyoviva/playlist.m3u8
+#EXTINF:0 CUID="16" tvg-name="RADYO D" tvg-id="radyod" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyod.png" group-title="RADYO",RADYO D
+https://radyo.dogantv.com.tr/radyod/playlist.m3u8
+#EXTINF:0 CUID="17" tvg-name="SHOW RADYO" tvg-id="showradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/showradyo.png" group-title="RADYO",SHOW RADYO
+https://showradyo.radyotvonline.net/showradyo/playlist.m3u8
+#EXTINF:0 CUID="18" tvg-name="NUMBER ONE FM" tvg-id="numberone" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/numberone.png" group-title="RADYO",NUMBER ONE FM
+https://n1fm.radyotvonline.net/numberone/playlist.m3u8
+#EXTINF:0 CUID="19" tvg-name="NUMBER ONE TURK" tvg-id="n1turk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/numberoneturk.png" group-title="RADYO",NUMBER ONE TURK
+https://n1fm.radyotvonline.net/n1turk/playlist.m3u8
+#EXTINF:0 CUID="20" tvg-name="NTV RADYO" tvg-id="ntvradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/ntvradyo.png" group-title="RADYO",NTV RADYO
+https://dyg.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:0 CUID="21" tvg-name="CNN TURK RADYO" tvg-id="cnnturkradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/cnnturk.png" group-title="RADYO",CNN TURK RADYO
+https://radyo.dogantv.com.tr/cnnturk/playlist.m3u8
+#EXTINF:0 CUID="22" tvg-name="HABERTURK RADYO" tvg-id="haberturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/haberturk.png" group-title="RADYO",HABERTURK RADYO
+https://ciner.radyotvonline.net/haberturkradyo/playlist.m3u8
+#EXTINF:0 CUID="23" tvg-name="A HABER RADYO" tvg-id="ahaberradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/ahaber.png" group-title="RADYO",A HABER RADYO
+https://voda.atv.com.tr/ahaberradyo/ahaberradyo/playlist.m3u8
+#EXTINF:0 CUID="24" tvg-name="Diyanet Radyo" tvg-id="diyanet" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/diyanetradyo.png" group-title="RADYO",Diyanet Radyo
+https://canliyayin.diyanetradyo.com/diyanetradyo/playlist.m3u8
+#EXTINF:0 CUID="25" tvg-name="RADYO SPOR" tvg-id="radyospor" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyospor.png" group-title="RADYO",RADYO SPOR
+https://radyospor.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:0 CUID="26" tvg-name="PAL NOSTALJI" tvg-id="palnostalji" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/palnostalji.png" group-title="RADYO",PAL NOSTALJI
+https://shoutcast.radyopal.com/stream/3/
+#EXTINF:0 CUID="27" tvg-name="RADYO VOYAGE" tvg-id="voyage" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/radyovoyage.png" group-title="RADYO",RADYO VOYAGE
+https://dyg.radyotvonline.net/voyage/playlist.m3u8
+#EXTINF:0 CUID="28" tvg-name="VIRGIN RADIO" tvg-id="virgin" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/virginradio.png" group-title="RADYO",VIRGIN RADIO
+https://karnaval.radyotvonline.net/virginradioturkiye/playlist.m3u8
+#EXTINF:0 CUID="29" tvg-name="BABA RADYO" tvg-id="babaradyo" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/babaradyo.png" group-title="RADYO",BABA RADYO
+https://best.radyotvonline.net/babaradyo/playlist.m3u8
+#EXTINF:0 CUID="30" tvg-name="DREAM TURK" tvg-id="dreamturk" tvg-logo="https://raw.githubusercontent.com/HalitUzun/iptv-tuerkiye/main/logos/dreamturk.png" group-title="RADYO",DREAM TURK
+https://radyo.dogantv.com.tr/dreamturk/playlist.m3u8

@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 CUID="1" tvg-name="ERT1 HD" tvg-id="ert1" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert1.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
-https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd|http://hd.x28gvn.xyz:80/live/hacioglu/20220930gkn/191621.ts
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd|https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8
 #EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert2.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8|http://hd.x28gvn.xyz:80/live/hacioglu/20220930gkn/191622.ts
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert3.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8|http://hd.x28gvn.xyz:80/live/hacioglu/20220930gkn/191623.ts
 #EXTINF:0 CUID="4" tvg-name="ERT NEWS" tvg-id="ertnews" tvg-logo="https://fsa3web.com/bildirim/lologllar/ertnews.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT NEWS
-https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8|https://ertflix.siliconweb.com/mpegts/618618_3479301/media_mpegts_0.m3u8
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://fsa3web.com/bildirim/lologllar/megatv.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-http://hd.x28gvn.xyz:80/live/hacioglu/20220930gkn/191635.ts|http://hd.x28gvn.xyz:80/live/hacioglu/20220930gkn/191635.ts
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8|https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:0 CUID="6" tvg-name="ANT1 HD" tvg-id="ant1" tvg-logo="https://fsa3web.com/bildirim/lologllar/ant1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
 #EXTINF:0 CUID="7" tvg-name="ALPHA HD" tvg-id="alpha" tvg-logo="https://fsa3web.com/bildirim/lologllar/alpha.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
@@ -375,4 +375,3 @@ https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="242" tvg-name="Konitsa TV" tvg-id="Konitsa TV" tvg-logo="https://fsa3web.com/bildirim/lologllar/konitsatv.png" group-title="ΜΟΥΣΙΚΉ",Konitsa TV
 https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
-

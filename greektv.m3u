@@ -252,7 +252,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 CUID="140" tvg-name="Ionia TV Thessaloniki" tvg-id="Ionia TV Thessaloniki" tvg-logo="https://fsa3web.com/bildirim/lologllar/ioniatvthessaloniki.png" group-title="ΚΙΝΗΜΑΤΟΓΡΆΦΟΣ",Ionia TV Thessaloniki
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:0 CUID="141" tvg-name="Lampsi TV" tvg-id="Lampsi TV" tvg-logo="https://fsa3web.com/bildirim/lologllar/lampsitv.png" group-title="ΚΙΝΗΜΑΤΟΓΡΆΦΟΣ",Lampsi TV
-https://pro.free.hr:3343/live/l1llive.m3u8
+https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:0 CUID="143" tvg-name="Netv Toronto" tvg-id="Netv Toronto" tvg-logo="https://fsa3web.com/bildirim/lologllar/netvtoronto.png" group-title="ΚΙΝΗΜΑΤΟΓΡΆΦΟΣ",Netv Toronto
 https://eu1.streams.gr:8081/netvtoronto/index.m3u8
 #EXTINF:0 CUID="156" tvg-name="ERT Kids" tvg-id="ERT Kids" tvg-logo="https://fsa3web.com/bildirim/lologllar/ertkids.png" group-title="ΠΑΙΔΙΚΆ",ERT Kids

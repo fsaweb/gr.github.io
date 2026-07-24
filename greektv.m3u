@@ -2,13 +2,13 @@
 #EXTINF:0 CUID="1" tvg-name="ERT1 HD" tvg-id="ert1" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert1.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://vip.rxs1.eu:8080/Leoav/leo1234/313126
 #EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert2.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/4587
+http://vip.rxs1.eu:8080/Leoav/leo1234/313128
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert3.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/4588
+http://vip.rxs1.eu:8080/Leoav/leo1234/313130
 #EXTINF:0 CUID="4" tvg-name="ERT NEWS" tvg-id="ertnews" tvg-logo="https://fsa3web.com/bildirim/lologllar/ertnews.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT NEWS
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://fsa3web.com/bildirim/lologllar/megatv.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/4695|https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
+http://vip.rxs1.eu:8080/Leoav/leo1234/313138|https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:0 CUID="6" tvg-name="ANT1 HD" tvg-id="ant1" tvg-logo="https://fsa3web.com/bildirim/lologllar/ant1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/57261
 #EXTINF:0 CUID="7" tvg-name="ALPHA HD" tvg-id="alpha" tvg-logo="https://fsa3web.com/bildirim/lologllar/alpha.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD

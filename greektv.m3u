@@ -18,7 +18,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:0 CUID="9" tvg-name="SKAI HD" tvg-id="skai" tvg-logo="https://fsa3web.com/bildirim/lologllar/skai.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:0 CUID="10" tvg-name="OPEN TV HD" tvg-id="open" tvg-logo="https://fsa3web.com/bildirim/lologllar/openboyend.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/4742
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:0 CUID="11" tvg-name="VOULI" tvg-id="voulitv" tvg-logo="https://fsa3web.com/bildirim/lologllar/voulitv.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0 CUID="12" tvg-name="Makedonia TV" tvg-id="maktv" tvg-logo="https://fsa3web.com/bildirim/lologllar/makedionia.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",Makedonia TV

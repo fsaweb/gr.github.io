@@ -1,0 +1,532 @@
+#EXTM3U
+# ---------- TRT ----------
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/-Rox1.webp" tvg-id="TRT1.tr",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/g2SMyj3t/TRT-3-Spor-logo-(2022)-svg.webp" tvg-id="TRT3-TRTSpor.tr",TRT 3
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/NfGJXnNP/TRT-Arabi-logo-svg.webp" tvg-id="TRTArabi.tr",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/3RPAUOgSTD.png" tvg-id="TRTAVAZ.tr",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://www.trtbelgesel.com.tr/images/logo.svg" tvg-id="TRTBelgesel.tr",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/K-EciCHWFwP.png" tvg-id="TRTDiyanetCocuk.tr@SD",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/fb5dJSck/channels4-profile-removebg-preview-(1).png" tvg-id="TRTEBAIlkokul.tr@SD",TRT EBA Ilkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/fb5dJSck/channels4-profile-removebg-preview-(1).png" tvg-id="TRTEBALise.tr@SD",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/fb5dJSck/channels4-profile-removebg-preview-(1).png" tvg-id="TRTEBA.tr@SD",TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/logo.svg" tvg-id="TRTHaber.tr",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/kXBrk0ww/TRT-Kurdi-logosu.png" tvg-id="TRTKurdi.tr",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/5etd4TmhgQ.webp" tvg-id="TRTMüzik.tr",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/5etd4TmhgQ.webp" tvg-id="TRTMüzik.tr",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://cdn-s.pr.trt.com.tr/trtspor/public/svg/logo-trtspor.svg" tvg-id="TRTSPOR.tr",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/ZRkxjdns/ebqgat1642602905.png" tvg-id="TRTSPORYILDIZ.tr",TRT Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/HifgSzZ95.webp" tvg-id="TRTTURK.tr",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://i.postimg.cc/VNJ2ChkD/TRT-World-logosu.png" tvg-id="TRTWorld.tr",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT" tvg-logo="https://r.resimlink.com/5uGVhWoy0.webp" tvg-id="TRTÇocuk.tr",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+# ---------- ULUSAL ----------
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/djaT7S.webp" tvg-id="360.tr",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/Uoupy2m.png" tvg-id="A2.tr",A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/jRTmq.webp" tvg-id="ATV.tr",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/jRTmq.webp" tvg-id="ATV.tr",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/7ZdlXg.webp" tvg-id="BEYAZTV.tr",Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/7ZdlXg.webp" tvg-id="BEYAZTV.tr",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/6db9fXQI.png" tvg-id="KANAL7.tr",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/6db9fXQI.png" tvg-id="KANAL7.tr",Kanal 7
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/uDbW6yFo_nPT.png" tvg-id="KanalD.tr",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/qnhp5mjzdDfF.webp" tvg-id="NOWTV.tr",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/qnhp5mjzdDfF.webp" tvg-id="NOWTV.tr",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/9RyhAVDB.webp" tvg-id="StarTV.tr",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/Z0ebKCs.png" tvg-id="TV8.tr",TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/Z0ebKCs.png" tvg-id="TV8.tr",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/D0kOE.png" tvg-id="TV4.tr@SD",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://r.resimlink.com/9K0D6MAp.png" tvg-id="Teve2.tr",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+# ---------- HABER ----------
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/NIiH3PYrdJz.png" tvg-id="AHaber.tr",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="AnadoluAgency.tr@SD",AA Live
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/diamQPgXyh4G.png" tvg-id="AkitTV.tr@SD",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/C_IUKsSD.png" tvg-id="BengütürkTV.tr",BENGÜTÜRK TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/C_IUKsSD.png" tvg-id="BengütürkTV.tr",Benguturk TV
+http://185.234.111.229:8000/play/a05u
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-id="BloombergHT.tr",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-id="BloombergHT.tr",Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-id="BloombergHT.tr",BloombergHT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/_pMOcz.png" tvg-id="ASTV.tr@SD",Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/_pMOcz.png" tvg-id="ASTV.tr@SD",Bursa AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/WEiRbsx.webp" tvg-id="CNBCe.tr@SD",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="DHA.tr@SD",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://finansturktv.com/images/logo.png" tvg-id="FinansTurkTV.tr@SD",Finans Turk TV
+https://trs1.aynaott.com/Finans/index.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://finansturktv.com/images/logo.png" tvg-id="FinansTurkTV.tr@SD",Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png" tvg-id="FlashHaberTV.tr",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="FlashTV.tr@SD",Flash TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://s.haberglobal.com/assets/web/images/hg_logo.svg" tvg-id="HABERGLOBAL.tr",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://i.postimg.cc/X7Z5tcXn/37976167-ico.png" tvg-id="Haber61TV.tr@SD",Haber61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://i.postimg.cc/X7Z5tcXn/37976167-ico.png" tvg-id="Haber61TV.tr@SD",Haber61 TV
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg" tvg-id="HABERTURK.tr",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg" tvg-id="HABERTURK.tr",Habertürk TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://s.halktv.com.tr/assets/web/images/logo.svg" tvg-id="HalkTV.tr",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" tvg-id="IlkeTV.tr@HD",Ilke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/45/2121305491855eb9542c_op_0_XL.webp" tvg-id="Kanal23.tr@SD",Kanal 23
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/45/2121305491855eb9542c_op_0_XL.webp" tvg-id="Kanal23.tr@SD",Kanal 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.kanal3.com.tr/wp-content/uploads/2024/11/logo-12-2-1.png" tvg-id="Kanal3.tr@SD",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.kanal3.com.tr/wp-content/uploads/2024/11/logo-12-2-1.png" tvg-id="Kanal3.tr@SD",Kanal 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.kanal3.com.tr/wp-content/uploads/2024/11/logo-12-2-1.png" tvg-id="Kanal3.tr@SD",Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.kanal3.com.tr/wp-content/uploads/2024/11/logo-12-2-1.png" tvg-id="Kanal3.tr@SD",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://i.postimg.cc/pLhcQxG8/1683624355Kanal-B-logosu.png" tvg-id="KanalB.tr@SD",Kanal B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" tvg-id="MaviKaradenizTV.tr@SD",MaviKaradeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://meltemtv.com.tr/uploads/logo.png" tvg-id="MeltemTV.tr@SD",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/TuqyeDo.webp" tvg-id="NTV.tr",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/TuqyeDo.webp" tvg-id="NTV.tr",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="OnMedyaTV.tr@SD",ON Medya Haber
+http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="TBMMTV.tr@SD",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://s.tgrthaber.com/s/i/i-logo-black.svg" tvg-id="TGRTHaber.tr",TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://s.tgrthaber.com/s/i/i-logo-black.svg" tvg-id="TGRTHaber.tr",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/Fz9Sw.png" tvg-id="KANAL24.tr",TR24 TV
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://s.tv100.com/assets/web/images/logo.svg" tvg-id="TV100.tr",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/Fz9Sw.png" tvg-id="KANAL24.tr",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://api.tv264.gunesozturk.com/Uploads/img/logo/ubp82n3ksdk9n4xlof.jpg" tvg-id="TV264.tr@SD",TV 264
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.tvnet.com.tr/img/logo.png" tvg-id="TVNET.tr",TVNET
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/4-Pn520gE.webp" tvg-id="TYTTurk.tr@SD",TYT Turk
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://tele1comtr.teimg.com/tele1-com-tr/uploads/2024/12/tele1-logo-1.svg" tvg-id="TELE1.tr",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png" tvg-id="TURKHABERTV.tr",TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="HABER" tvg-logo="https://r.resimlink.com/wr1BR4S/Ulke-TV-logo-svg.webp" tvg-id="UlkeTV.tr",Ulke TV
+http://217.174.229.138:8000/play/a0el
+#EXTINF:-1 group-title="HABER" tvg-logo="https://i.postimg.cc/rwc1BR4S/Ulke-TV-logo-svg.webp" tvg-id="UlkeTV.tr",Ülke TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+
+# ---------- SPOR ----------
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/xCrVRXnZ/logo.png" tvg-id="ASpor.tr",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/Gt7MXfvd/Fenerbahce-TV-Logo-removebg-preview.png" tvg-id="FBTV.tr",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/W3p6xnNm/unnamed-removebg-preview-(1).png" tvg-id="HTSPOR.tr",HTSpor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="SPOR" tvg-id="SSport.tr@SD",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="SSport2.tr@SD",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/K8rq1QYT/logo-sportstv-large.png" tvg-id="SportsTV.tr@SD",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TJKTV.tr@SD",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TJKTV2.tr@SD",TJK TV 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/pdyn8XB4/images-removebg-preview-(3).png" tvg-id="TabiiSpor6.tr@SD",Tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.postimg.cc/pXdzfZkm/Be-IN-Sports-Haber.png" tvg-id="beINSportsHaber.tr@SD",beIN Sports Haber
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+# ---------- SİNEMA/DİZİ ----------
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-logo="https://r.resimlink.com/SIVnkJs.webp" tvg-id="BirTV.tr@SD",Bir TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="Cine1.tr@SD",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" tvg-id="DenizPostasiTV.tr@SD",Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="KanalDDrama.tr@SD",Kanal D Drama
+http://8.243.126.131:8000/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="KanalDDrama.tr@SD",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-logo="https://i.postimg.cc/vmjkCM3g/Movie-Smart-Classic-logo.png" tvg-id="MovieSmartTurk.tr",MovieSmart Turk
+http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="BricveSatrancTV.tr@SD",Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="SercemTV.tr@HD",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-logo="https://r.resimlink.com/Ngv3owIsX.webp" tvg-id="Tivi6.tr@SD",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-logo="https://r.resimlink.com/v0OaVP.png" tvg-id="TrakyaTurk.tr@SD",Trakya Türk TV
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:-1 group-title="SİNEMA/DİZİ" tvg-id="WomanTV.tr@SD",Woman TV
+https://embedlp.becdn.net/womantv.m3u8
+
+# ---------- MÜZİK ----------
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/31NX4urw.png" tvg-id="DreamTurk.tr@SD",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/fy5wBYzr/77c77219204661-562d67f45c148-removebg-preview.png" tvg-id="KralPopTV.tr@SD",KRAL Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-id="MedMuzik.tr@SD",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/zXcHZ1Jd/images-removebg-preview-(2).png" tvg-id="Number1Ask.tr@SD",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/zXcHZ1Jd/images-removebg-preview-(2).png" tvg-id="Number1Damar.tr@SD",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/zXcHZ1Jd/images-removebg-preview-(2).png" tvg-id="Number1Dance.tr@SD",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/ncLsNQkL/Number-one-tv-logo.png" tvg-id="Number1TV.tr@SD",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/ncLsNQkL/Number-one-tv-logo.png" tvg-id="Number1TV.tr@SD",Number 1 TV
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/o62FB.png" tvg-id="Number1Turk.tr@SD",Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-id="PowerDance.tr@SD",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-id="PowerLove.tr@SD",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-id="PowerTV.tr@SD",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-id="PowerTV.tr@SD",Power TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkTV.tr@SD",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkAkustik.tr@SD",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkSlow.tr@SD",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkTaptaze.tr@SD",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkTV.tr@SD",PowerTurk TV
+https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://r.resimlink.com/BFaeP9XG.png" tvg-id="PowerTurkTV.tr@SD",PowerTürk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/nLyjrj3X/11633-removebg-preview.png" tvg-id="TMB.tr@SD",TMB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.postimg.cc/027G2SSB/channels4-profile-removebg-preview-(3).png" tvg-id="TempoTV.tr@SD",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+
+# ---------- ÇOCUK ----------
+#EXTINF:-1 group-title="ÇOCUK" tvg-id="DisneyJr.tr@SD",Disney Jr.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-logo="https://r.resimlink.com/86TS10vrPYA.png" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-logo="https://r.resimlink.com/86TS10vrPYA.png" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-logo="https://r.resimlink.com/4kADEsRrX.png" tvg-id="MinikaGO.tr",Minika Go
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-logo="https://r.resimlink.com/4kADEsRrX.png" tvg-id="MinikaGO.tr",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-logo="https://r.resimlink.com/cl82oa9SK6D-.png" tvg-id="ZarokTV.tr@SD",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+# ---------- BELGELSEL ----------
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://i.postimg.cc/QdtBtvWb/37975749-ico.png" tvg-id="FortunaTV.tr@HD",Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://i.postimg.cc/QdtBtvWb/37975749-ico.png" tvg-id="FortunaTV.tr@SD",Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://gzttv.tr/logo.png" tvg-id="GZTTV.tr",GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://i.postimg.cc/FsHg9j87/National-Geographic-logo-removebg-preview.png" tvg-id="NationalGeographic.tr",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://i.postimg.cc/FsHg9j87/National-Geographic-logo-removebg-preview.png" tvg-id="NatGeoWild.tr",National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://r.resimlink.com/KT-GhEyP.png" tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel TV
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://r.resimlink.com/KT-GhEyP.png" tvg-id="TGRTBelgesel.tr@SD",TGRT Belgesel TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://i.postimg.cc/Wb61NL6k/tarihtv-beyaz.png" tvg-id="TARIHTV.tr",Tarih TV
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-id="TarimTV.tr@SD",Tarim TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-id="ViasatExplore.tr@SD",Viasat Explore
+https://tv.arectv29.sbs/live/viasathistory.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://www.ciftcitv.com/assets/images/logo_dark.svg" tvg-id="CiftciTV.tr@SD",Çiftçi TV
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="BELGELSEL" tvg-logo="https://www.ciftcitv.com/assets/images/logo_dark.svg" tvg-id="CiftciTV.tr@SD",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+# ---------- DİNİ ----------
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/VLsvG246/37957928-ico.png" tvg-id="AlZahraTVTurkic.tr@SD",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/logo.png" tvg-id="DiyanetTV.tr",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-id="DostTV.tr@SD",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/QMjTMJFP/channels4-profile-removebg-preview.png" tvg-id="Kanal12.tr@SD",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/rpCBLzVS/37980698-ico.png" tvg-id="KanalHayat.tr@SD",Kanal Hayat
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://kudustv.com.tr/images/logo/logo.png?" tvg-id="KudusTV.tr@SD",Kudüs TV
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/YqVRjZ7D/Lalegullogo.png" tvg-id="LalegulTV.tr@SD",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/YqVRjZ7D/Lalegullogo.png" tvg-id="LalegulTV.tr@SD",Lalegül TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://i.postimg.cc/YqVRjZ7D/Lalegullogo.png" tvg-id="LalegulTV.tr@SD",Lalegül TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-id="MekameleenTV.tr@SD",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/on4-logo.png" tvg-id="On4TV.tr@SD",On4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-id="QafTV.tr@SD",Qaf TV
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.sat7turk.com/images/site/stu-logo.png" tvg-id="Sat7Turk.cy@SD",Sat7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.sat7turk.com/images/site/stu-logo.png" tvg-id="Sat7Turk.cy@SD",Sat7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.semerkandtv.com.tr/Content/img/logo.png" tvg-id="SemerkandTV.tr@SD",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
+# ---------- YEREL ----------
+#EXTINF:-1 group-title="YEREL" tvg-id="4UTV.tr@SD",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="ATurk.tr@SD",A Türk Izmir
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="ArasTV.tr@SD",ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://alanyatelevizyonucomtr.teimg.com/alanyatelevizyonu-com-tr/uploads/2023/11/a-t-v-l-o-g-o-1.svg" tvg-id="ATVAlanya.tr@SD",ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://alanyatelevizyonucomtr.teimg.com/alanyatelevizyonu-com-tr/uploads/2023/11/a-t-v-l-o-g-o-1.svg" tvg-id="ATVAlanya.tr@SD",ATV Alanya
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="AfroturkTV.tr@SD",Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/KYtpK2QL/logo-7.png" tvg-id="AksuTV.tr@SD",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-id="AlanyaPostaTV.tr@SD",Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="AlmahriahTV.tr@SD",Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.altastv.com.tr/images/altastvlogo.png" tvg-id="AltasTV.tr@SD",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-id="AnadoluNetTV.tr@SD",Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_19.png?v=6" tvg-id="BRTV.tr@SD",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="BeratTV.tr@SD",Berat TV
+https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="BizimevTV.tr@SD",Bizimev TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="BursaTV.tr@SD",Bursa TV
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="BursaTV.tr@SD",Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="CanTV.tr@SD",Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="CanTV.tr@SD",Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/3RMxtt8S/37958065-ico.png" tvg-id="CayTV.tr@SD",Cay TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="CekmekoyTV.tr@SD",Cekmeköy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="CekmekoyTV.tr@SD",Cekmeköy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="DehaTV.tr@SD",Deha TV
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="DiyarTV.tr@SD",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_34.png?v=3" tvg-id="DimTV.tr@SD",DİM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_43.png?v=3" tvg-id="ESTV.tr@SD",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_46.png?v=3" tvg-id="ETVKayseri.tr@SD",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/nrCVzqMX/37975656-ico.png" tvg-id="ETVManisa.tr@SD",ETV Manisa
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/ZK6FHQJ2/37969490-ico.png" tvg-id="EdessaTV.tr@SD",Edessa TV
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://s.ertv.com.tr/dosya/logo/svg/logo-ana.svg" tvg-id="ERTV.tr@SD",Er TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="ErzurumWebTV.tr@SD",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/26tp6TST/desktop-Picsart-Background-Remover.png" tvg-id="GRT.tr@SD",GRT
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/rFTtVwLP/37976149-ico.png" tvg-id="GuneydoguTV.tr@SD",Guneydogu TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_55.png?v=3" tvg-id="HunatTV.tr@SD",Hunat TV
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_55.png?v=3" tvg-id="HunatTV.tr@SD",Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="IBBTV.tr@SD",IBB TV
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="IcelTV.tr@SD",Icel TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="IcelTV.tr@SD",Icel TV
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://kanal58.com.tr/assets/images/logo/33808logo.png" tvg-id="Kanal58.tr@SD",KANAL 58
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://kanal58.com.tr/assets/images/logo/33808logo.png" tvg-id="Kanal58.tr@SD",KANAL 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://kanal15.com.tr/assets/logo-D_1WVj9x.png" tvg-id="Kanal15.tr@SD",Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://r.resimlink.com/ZS169wNPtl.png" tvg-id="Kanal26.tr@SD",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.kanal32.com.tr/images/site/logopng-141454-20240429.png" tvg-id="Kanal32.tr@SD",Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.kanal33.com.tr/images/logok.png" tvg-id="Kanal33.tr@SD",Kanal 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.kanal33.com.tr/images/logok.png" tvg-id="Kanal33.tr@SD",Kanal 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Kanal34.tr@SD",Kanal 34
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Kanal34.tr@SD",Kanal 34
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Kanal38.tr@SD",Kanal 38
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Kanal68.tr@SD",Kanal 68
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_82.png?v=3" tvg-id="KanalFirat.tr@SD",Kanal Firat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/gkNWJvjN/channels4-profile-removebg-preview-(2).png" tvg-id="KanalV.tr@SD",Kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="KanalZ.tr@SD",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_91.png?v=5" tvg-id="KayTV.tr@SD",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_91.png?v=5" tvg-id="KayTV.tr@SD",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_94.png?v=3" tvg-id="KentTurk.tr@SD",Kent Türk TV
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_94.png?v=3" tvg-id="KentTurk.tr@SD",Kent Türk TV
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="KonyaOlayTV.tr@SD",Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="LifeTV.tr@SD",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/8cSsztxj/37994125-ico.png" tvg-id="LineTV.tr@SD",Line TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.mturktv.com/wp-content/uploads/2025/04/MTurkTV.png" tvg-id="MTurkTV.tr@SD",MTürk TV
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.mercantv.com.tr/images/logo.png" tvg-id="MercanTV.tr@SD",Mercan TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="MilyonTV.tr@SD",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="NaturalTV.tr@SD",Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="NaturalTV.tr@SD",Natural TV
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="OlayTurkTV.tr@SD",Olay Türk TV Kayseri
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="On6.tr@SD",On 6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/B6X8YqyJ/logo-124.png" tvg-id="SunRTV.tr@SD",Sun RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/B6X8YqyJ/logo-124.png" tvg-id="SunRTV.tr@SD",Sun RTV
+https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.tvbir.com.tr/images/genel/tv1-logo.fw.png?v=2024120611581120251125002117" tvg-id="TV1.tr@SD",TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="TV38.tr@SD",TV 38
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_139.png?v=3" tvg-id="TV41.tr@SD",TV 41
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_139.png?v=3" tvg-id="TV41.tr@SD",TV 41
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_139.png?v=3" tvg-id="TV41.tr@SD",TV 41
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_139.png?v=3" tvg-id="TV41.tr@SD",TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tv-42-buyuk.png?rkt=DfS6Tgv6Hjr93k3" tvg-id="TV42.tr@SD",TV 42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" tvg-id="TV52.tr@SD",TV 52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" tvg-id="TV52.tr@SD",TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://tvden.com.tr/media/denge/TUolmqfbupYWUDOymOenfreAjISJQPJZMLIXrvbXshdupHCh.png" tvg-id="TVDen.tr@SD",TV Den
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="TatlisesTV.tr@SD",Tatlises TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.postimg.cc/3RB9Xd3W/11687-removebg-preview.png" tvg-id="TonTV.tr@SD",Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="ToprakTV.tr@SD",Toprak TV
+https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="",Torba TV
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="TrabzonBuyuksehirBelediyesiTV.tr@FHD",Trabzon Buyuksehir Belediyesi TV
+https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="UrfaNatikTV.tr@SD",Urfa Natik TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Van65TV.tr@SD",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="VAVTV.tr",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="Vizyon58TV.tr@SD",Vizyon 58 TV
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-id="LuysTV.tr@SD",Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="OncuTV.tr@SD",Öncü TV
+https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="UniversiteTV.tr@SD",Üniversite TV
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
+#EXTINF:-1 group-title="YEREL" tvg-id="UUTV2.tr@SD",ÜÜ TV Üsküdar Üniversitesi TV
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+
+# ---------- AVRUPA ----------
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://r.resimlink.com/-rlQxcgY.png" tvg-id="ATVAvrupa.tr@SD",ATV Avrupa
+https://streamer2.nexgen.bz/ATV/index.m3u8
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://r.resimlink.com/cG0JIgNMd.png" tvg-id="EuroD.tr@SD",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://r.resimlink.com/FbfPASZVn4M.png" tvg-id="EuroStar.tr@SD",EuroStar TV
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://r.resimlink.com/S4_0AeXLZwo.png" tvg-id="Kanal7Avrupa.tr@SD",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://kanalavrupa.tv/wp-content/uploads/2025/04/KanalAvrupaLogo.png" tvg-id="KanalAvrupa.tr@SD",Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 group-title="AVRUPA" tvg-logo="https://tgrteu.com/canliyayin/images/tgrteu.png" tvg-id="TGRTEurope.tr@SD",TGRT Europe
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+
+# ---------- YABANCI ----------
+#EXTINF:-1 group-title="YABANCI" tvg-logo="https://i.postimg.cc/yYL6cLc0/CGTN-Documentary-svg.webp" tvg-id="CGTNDocumentary.tr@SD",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8

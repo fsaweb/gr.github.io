@@ -10,7 +10,7 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://fsa3web.com/bildirim/lologllar/megatv.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 #EXTINF:0 CUID="6" tvg-name="ANT1 HD" tvg-id="ant1" tvg-logo="https://fsa3web.com/bildirim/lologllar/ant1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/57261
+https://spark3.smart-tv-data.com/ant1HD/ant1HD/manifest.mpd
 #EXTINF:0 CUID="7" tvg-name="ALPHA HD" tvg-id="alpha" tvg-logo="https://fsa3web.com/bildirim/lologllar/alpha.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:0 CUID="8" tvg-name="STAR HD" tvg-id="star" tvg-logo="https://fsa3web.com/bildirim/lologllar/startv.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD

@@ -22,7 +22,7 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:0 CUID="11" tvg-name="VOULI" tvg-id="voulitv" tvg-logo="https://fsa3web.com/bildirim/lologllar/voulitv.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0 CUID="12" tvg-name="Makedonia TV" tvg-id="maktv" tvg-logo="https://fsa3web.com/bildirim/lologllar/makedionia.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",Makedonia TV
-http://hnsefpop.top:8080/311703337783132/e6b9341dbeba/4602
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:0 CUID="20" tvg-name="Action 24" tvg-id="Action 24" tvg-logo="https://fsa3web.com/bildirim/lologllar/action24.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",Action 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:0 CUID="21" tvg-name="Kontra" tvg-id="Kontra" tvg-logo="https://fsa3web.com/bildirim/lologllar/kontra.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",Kontra

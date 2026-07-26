@@ -4,7 +4,7 @@ https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playl
 #EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert2.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 http://vip.rxs1.eu:8080/Leoav/leo1234/313128
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://fsa3web.com/bildirim/lologllar/ert3.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
-http://vip.rxs1.eu:8080/Leoav/leo1234/313130
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:0 CUID="4" tvg-name="ERT NEWS" tvg-id="ertnews" tvg-logo="https://fsa3web.com/bildirim/lologllar/ertnews.webp" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT NEWS
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://fsa3web.com/bildirim/lologllar/megatv.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
